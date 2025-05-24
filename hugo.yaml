@@ -1,4 +1,4 @@
-baseURL: https://getstrategiq.com
+baseURL: https://sansubr.github.io/
 languageCode: en-us
 title: Get Strategiq
 theme: hextra
@@ -50,14 +50,14 @@ params:
   description: B2B Marketing Consulting Agency for IT Founders and Tech Teams.
 
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
-      # width: 40
-      # height: 20
-      # link: /
+      path: images/logo.png
+      dark: images/logo-dark.png
+      width: 150
+      height: 50
+      link: /
     width: wide
 
   page:
@@ -66,7 +66,7 @@ params:
 
   theme:
     # light | dark | system
-    default: system
+    default: dark
     displayToggle: true
 
   footer:

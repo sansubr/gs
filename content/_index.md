@@ -243,12 +243,12 @@ layout: hextra-home
   >}}
 
   {{< card
-    tag="ARTICLE"
-    link="https://blog.getstrategiq.com/p/seo-is-dead-but-something-else-is-born"
-    title="SEO is dead. But something else is born!"
-    subtitle="Search engines are changing to answering engines. Here's how it affects your business."
+    tag="RESOURCE"
+    link="/resources/ai-impact-on-search-landing/"
+    title="AI's impact on Search"
+    subtitle="A brief infographic for founders and marketing leaders looking to learn AI's impact on search and business discovery."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
-    image="images/article/seo-is-dead.webp"
+    image="images/resources/ai-impact-search.webp"
     imageClass="hx:top-[40%] hx:left-[36px] hx:w-[110%] hx:sm:w-[110%] hx:dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
