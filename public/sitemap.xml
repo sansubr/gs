@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/gated/ai-impact-on-search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resources/ai-impact-on-search-landing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/case-studies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gated/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/case-studies/linkedin-growth-pramod-sachdeva/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resources/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ty/resource-access-confirmation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resources/email-swipe-file-landing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ty/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="container mx-auto py-8">
+  <h1 class="text-3xl font-bold mb-6">{{ .Title }}</h1>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {{ range .Pages }}
+      <a href="{{ .RelPermalink }}" class="block bg-white rounded-lg shadow hover:shadow-lg transition p-6 dark:bg-gray-900 dark:text-gray-100">
+        <h2 class="text-xl font-semibold mb-2">{{ .Title }}</h2>
+        {{ with .Params.description }}
+          <p class="text-gray-600 dark:text-gray-300 mb-4">{{ . }}</p>
+        {{ end }}
+        <span class="text-blue-600 font-medium">Read More →</span>
+      </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get Strategiq – Ties</title>
+    <link>http://localhost:1313/ty/</link>
+    <description>Recent content in Ties on Get Strategiq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/ty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Thank you for your interest</title>
+      <link>http://localhost:1313/ty/resource-access-confirmation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ty/resource-access-confirmation/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;hx:mt-12&#34;&gt;
+&lt;h1
+  class=&#34;not-prose hx:text-4xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-5xl hx:py-2 hx:bg-clip-text hx:text-transparent hx:bg-gradient-to-r hx:from-gray-900 hx:to-gray-600 hx:dark:from-gray-100 hx:dark:to-gray-400&#34;
+  
+&gt;
+  &lt;span style=&#34;background: linear-gradient(90deg, #118AB2 0%, #06D6A0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent;&#34;&gt;
+    Please check your email
+&lt;/span&gt;
+
+&lt;/h1&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;hx:mb-12&#34;&gt;
+&lt;p
+  class=&#34;not-prose hx:text-xl hx:text-gray-600 hx:dark:text-gray-400 hx:sm:text-xl&#34;
+  
+&gt;
+  Thank your for your interest in this resource from Get Strategiq. Kindly check your email for a link to verify your email and access the resource.
+&lt;/p&gt;
+
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

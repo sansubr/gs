@@ -1,0 +1,174 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get Strategiq – Gateds</title>
+    <link>http://localhost:1313/gated/</link>
+    <description>Recent content in Gateds on Get Strategiq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/gated/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>AI Impact on Search</title>
+      <link>http://localhost:1313/gated/ai-impact-on-search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gated/ai-impact-on-search/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Mastering Visibility in the Age of AI-Driven Search&lt;/h1&gt;&lt;h2&gt;Executive Summary&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;executive-summary&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#executive-summary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The search landscape is shifting from traditional keyword-based results to AI-augmented discovery. AI-generated summaries, direct answers, and conversational interfaces are now central to how users find information. Over 58% of Google searches end without a click, and AI platforms like ChatGPT and Google AI Overviews are reaching hundreds of millions of users monthly.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Takeaways:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Success in AI-driven search requires blending traditional SEO with Generative Engine Optimization (GEO).&lt;/li&gt;
+&lt;li&gt;Content quality, E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), and clear structure are critical.&lt;/li&gt;
+&lt;li&gt;AI platforms (Google, ChatGPT, Claude, Perplexity, DeepSeek) have unique preferences—tailor your approach accordingly.&lt;/li&gt;
+&lt;li&gt;Tracking AI visibility and competitor analysis are essential for ongoing success.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1. Decoding Google&amp;rsquo;s AI Overviews&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-decoding-googles-ai-overviews&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-decoding-googles-ai-overviews&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;What Triggers AI Overviews?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-triggers-ai-overviews&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-triggers-ai-overviews&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Informational intent:&lt;/strong&gt; Most common for question-based, longer, and specific queries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Query complexity:&lt;/strong&gt; AIOs appear for nuanced topics, especially in the &amp;ldquo;middle ground&amp;rdquo; of search complexity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;YMYL topics:&lt;/strong&gt; Legal, financial, and health queries often trigger AIOs, sometimes with disclaimers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SERP features:&lt;/strong&gt; AIOs often appear with &amp;ldquo;People Also Ask&amp;rdquo; and video carousels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Focus on comprehensive answers to multifaceted questions in your domain.&lt;/p&gt;
+&lt;h3&gt;How Content is Selected&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-content-is-selected&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-content-is-selected&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Google uses a two-stage filtering process:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Authority signals:&lt;/strong&gt; Domain authority, traffic, keyword rankings, and backlinks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content quality:&lt;/strong&gt; Relevance, structure, clarity, direct answers, and E-E-A-T.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Best Practices:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use clear headings, lists, and concise language.&lt;/li&gt;
+&lt;li&gt;Provide direct answers and definitions.&lt;/li&gt;
+&lt;li&gt;Demonstrate unique experience and value.&lt;/li&gt;
+&lt;li&gt;Implement structured data (schema markup).&lt;/li&gt;
+&lt;li&gt;Optimize for top 10–12 organic rankings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2. Appearing in AI Chatbots&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-appearing-in-ai-chatbots&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-appearing-in-ai-chatbots&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;General GEO Principles&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;general-geo-principles&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general-geo-principles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;High-quality, unique content:&lt;/strong&gt; Stand out with well-researched, original material.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clarity and structure:&lt;/strong&gt; Use headings, logical flow, and structured data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brand authority:&lt;/strong&gt; Build E-E-A-T and consistent terminology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Platform-Specific Tips&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;platform-specific-tips&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#platform-specific-tips&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;ChatGPT&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;chatgpt&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#chatgpt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Optimize for transformed queries (e.g., &amp;ldquo;guide,&amp;rdquo; &amp;ldquo;tutorial&amp;rdquo;).&lt;/li&gt;
+&lt;li&gt;Keep content fresh and authoritative.&lt;/li&gt;
+&lt;li&gt;Use a conversational tone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Claude&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;claude&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#claude&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Focus on well-referenced, long-form, and structured content.&lt;/li&gt;
+&lt;li&gt;Enable citations if using the API.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Perplexity AI&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;perplexity-ai&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#perplexity-ai&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Write answer-first, modular content.&lt;/li&gt;
+&lt;li&gt;Use headings, bullet points, and cite credible sources.&lt;/li&gt;
+&lt;li&gt;Include FAQs and multimedia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;DeepSeek&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;deepseek&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#deepseek&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Exercise caution due to privacy concerns.&lt;/li&gt;
+&lt;li&gt;Only target if Chinese audiences are a priority and risks are acceptable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3. SEO &amp;amp; GEO: The Interplay&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-seo--geo-the-interplay&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-seo--geo-the-interplay&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SEO remains foundational:&lt;/strong&gt; High organic rankings correlate with AI visibility.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backlinks:&lt;/strong&gt; Still important for authority, but content clarity and structure are increasingly critical for AI citation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structured data:&lt;/strong&gt; Essential for AI understanding and SERP features.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;4. GEO Action Plan: 4 Pillars&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-geo-action-plan-4-pillars&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-geo-action-plan-4-pillars&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1. High-Impact, AI-Friendly Content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-high-impact-ai-friendly-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-high-impact-ai-friendly-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Demonstrate E-E-A-T.&lt;/li&gt;
+&lt;li&gt;Analyze and match user intent.&lt;/li&gt;
+&lt;li&gt;Provide direct, comprehensive answers.&lt;/li&gt;
+&lt;li&gt;Keep content fresh and unique.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Conversational &amp;amp; Definitional Style&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-conversational--definitional-style&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-conversational--definitional-style&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Use natural language and clear definitions.&lt;/li&gt;
+&lt;li&gt;Structure with headings, lists, and FAQs.&lt;/li&gt;
+&lt;li&gt;Refine for snippet-worthiness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. Technical Excellence&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-technical-excellence&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-technical-excellence&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Implement schema markup.&lt;/li&gt;
+&lt;li&gt;Optimize for speed, mobile, and security.&lt;/li&gt;
+&lt;li&gt;Use clear URLs and internal linking.&lt;/li&gt;
+&lt;li&gt;Ensure multimodal optimization (images, video, audio).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Authority &amp;amp; Trust&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-authority--trust&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-authority--trust&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Build quality backlinks.&lt;/li&gt;
+&lt;li&gt;Encourage positive reviews and UGC.&lt;/li&gt;
+&lt;li&gt;Publish original research and thought leadership.&lt;/li&gt;
+&lt;li&gt;Maintain consistent branding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;5. Measuring AI Visibility&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-measuring-ai-visibility&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-measuring-ai-visibility&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Google AI Overviews&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;google-ai-overviews&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#google-ai-overviews&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Use Google Search Console and SEO tools (Keyword.com, Ahrefs, Semrush, Serpstat) to track AIO appearances.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;AI Chatbots&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ai-chatbots&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-chatbots&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Manually check for mentions in ChatGPT, Claude, Perplexity.&lt;/li&gt;
+&lt;li&gt;Use tools like Trackerly.ai and Mangools AI Search Grader.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Broader Metrics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;broader-metrics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#broader-metrics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Monitor direct traffic, branded search, engagement, and conversions from AI sources.&lt;/li&gt;
+&lt;li&gt;Conduct competitor analysis to identify gaps and opportunities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;6. Ethical &amp;amp; Strategic Considerations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-ethical--strategic-considerations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-ethical--strategic-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transparency:&lt;/strong&gt; Disclose AI use in content creation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accountability:&lt;/strong&gt; Human review and fact-checking are essential.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Copyright:&lt;/strong&gt; Respect training data and output rights.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data privacy:&lt;/strong&gt; Be cautious with platforms that have unclear data practices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Environmental impact:&lt;/strong&gt; Consider the resource use of AI tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;7. Emerging Trends&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7-emerging-trends&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#7-emerging-trends&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Multimodal optimization:&lt;/strong&gt; Prepare content for text, images, video, and audio.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Universal Search Optimization (USO):&lt;/strong&gt; Integrate strategies across all digital touchpoints.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI-powered content hubs:&lt;/strong&gt; Use RAG and internal data for advanced content delivery.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous adaptation:&lt;/strong&gt; GEO is ongoing—monitor, test, and refine regularly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;8. Strategic Recommendations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;8-strategic-recommendations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#8-strategic-recommendations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Integrate GEO across all digital strategies.&lt;/li&gt;
+&lt;li&gt;Invest in high-quality, AI-optimized content.&lt;/li&gt;
+&lt;li&gt;Strengthen technical SEO.&lt;/li&gt;
+&lt;li&gt;Tailor tactics for each AI platform.&lt;/li&gt;
+&lt;li&gt;Track, analyze, and adapt based on data.&lt;/li&gt;
+&lt;li&gt;Uphold ethical standards and transparency.&lt;/li&gt;
+&lt;li&gt;Stay agile and monitor emerging trends.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;By embracing these strategies, businesses can secure visibility and leadership in the evolving world of AI-driven search.&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

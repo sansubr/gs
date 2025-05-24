@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="hx:mt-12"></div>
+<div style="max-width: 90rem; margin-left: auto; margin-right: auto; padding-left: 1rem; padding-right: 1rem;">
+  <div class="hx:grid hx:grid-cols-1 hx:md:grid-cols-2 hx:gap-8 hx:items-center hx:mb-12">
+    {{ $parts := split .RawContent "<!-- RIGHT COLUMN -->" }}
+    <div>
+      {{ index $parts 0 | markdownify }}
+    </div>
+    <div class="hx:flex hx:justify-center hx:py-8">
+      {{ if gt (len $parts) 1 }}
+        {{ index $parts 1 | markdownify }}
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

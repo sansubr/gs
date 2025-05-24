@@ -1,0 +1,1213 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get Strategiq – Get Strategiq</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Get Strategiq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+    <item>
+      <title>AI&#39;s impact on Search</title>
+      <link>http://localhost:1313/resources/ai-impact-on-search-landing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ai-impact-on-search-landing/</guid>
+      <description>
+        
+        
+        &lt;style&gt;
+.ai-impact-root {
+    background: none !important;
+}
+:root {
+    --bg: none !important;
+}
+&lt;/style&gt;
+&lt;style&gt;
+.ai-impact-root,
+.ai-impact-root * {
+    font-family: inherit !important;
+}
+&lt;/style&gt;
+&lt;style&gt;
+.ai-impact-section:first-of-type {
+    margin-top: 50px !important;
+}
+&lt;/style&gt;
+&lt;style&gt;
+.ai-impact-section {
+    margin: 0 auto 6rem auto !important;
+    max-width: 1100px;
+    padding: 0 1rem;
+}
+.ai-impact-section + .ai-impact-section {
+    margin-top: 6rem !important;
+}
+&lt;/style&gt;
+&lt;style&gt;
+.ai-impact-section {
+    margin: 0 auto 4.5rem auto !important;
+    max-width: 1100px;
+    padding: 0 1rem;
+}
+.ai-impact-card,
+.ai-impact-pillar-card,
+.ai-impact-trend-item {
+    background: rgba(27, 38, 59, 0.98) !important;
+    position: relative;
+    z-index: 1;
+}
+.ai-impact-card,
+.ai-impact-pillar-card {
+    border: none !important;
+    box-shadow: 0 4px 24px 0 rgba(0,0,0,0.16);
+    overflow: hidden;
+}
+.ai-impact-card[data-accent],
+.ai-impact-pillar-card[data-accent] {
+    border: none !important;
+}
+.ai-impact-card[data-accent]:before,
+.ai-impact-pillar-card[data-accent]:before {
+    content: &#34;&#34;;
+    position: absolute;
+    z-index: 0;
+    inset: 0;
+    border-radius: inherit;
+    padding: 2px;
+    background: linear-gradient(90deg,
+        var(--accent4) 0%,
+        var(--accent3) 33%,
+        var(--accent2) 66%,
+        var(--accent1) 100%);
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box, 
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+}
+.ai-impact-card[data-accent=&#34;1&#34;]:before { background: linear-gradient(90deg, var(--accent4), var(--accent3)); }
+.ai-impact-card[data-accent=&#34;2&#34;]:before { background: linear-gradient(90deg, var(--accent3), var(--accent2)); }
+.ai-impact-card[data-accent=&#34;3&#34;]:before { background: linear-gradient(90deg, var(--accent2), var(--accent1)); }
+.ai-impact-card[data-accent=&#34;4&#34;]:before { background: linear-gradient(90deg, var(--accent1), var(--accent6)); }
+.ai-impact-card[data-accent=&#34;5&#34;]:before { background: linear-gradient(90deg, var(--accent6), var(--accent5)); }
+.ai-impact-card[data-accent=&#34;6&#34;]:before { background: linear-gradient(90deg, var(--accent5), var(--accent7)); }
+.ai-impact-card[data-accent=&#34;7&#34;]:before { background: linear-gradient(90deg, var(--accent7), var(--accent4)); }
+
+.ai-impact-pillar-card[data-accent=&#34;1&#34;]:before { background: linear-gradient(90deg, var(--accent4), var(--accent3)); }
+.ai-impact-pillar-card[data-accent=&#34;2&#34;]:before { background: linear-gradient(90deg, var(--accent3), var(--accent2)); }
+.ai-impact-pillar-card[data-accent=&#34;3&#34;]:before { background: linear-gradient(90deg, var(--accent2), var(--accent1)); }
+.ai-impact-pillar-card[data-accent=&#34;4&#34;]:before { background: linear-gradient(90deg, var(--accent1), var(--accent6)); }
+.ai-impact-pillar-card[data-accent=&#34;5&#34;]:before { background: linear-gradient(90deg, var(--accent6), var(--accent5)); }
+.ai-impact-pillar-card[data-accent=&#34;6&#34;]:before { background: linear-gradient(90deg, var(--accent5), var(--accent7)); }
+.ai-impact-pillar-card[data-accent=&#34;7&#34;]:before { background: linear-gradient(90deg, var(--accent7), var(--accent4)); }
+
+.ai-impact-card,
+.ai-impact-pillar-card {
+    border-radius: 0.85rem !important;
+}
+.ai-impact-card &gt; *,
+.ai-impact-pillar-card &gt; * {
+    position: relative;
+    z-index: 1;
+}
+.ai-impact-card h3,
+.ai-impact-card h4 {
+    color: #f1faee !important;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.12);
+}
+&lt;/style&gt;
+&lt;style&gt;
+:root {
+    --bg: #0d1b2a;
+    --fg: #f1faee;
+    --accent1: #118AB2;
+    --accent2: #06D6A0;
+    --accent3: #FFD166;
+    --accent4: #FF6B6B;
+    --accent5: #8A4FFF;
+    --accent6: #F582AE;
+    --accent7: #073B4C;
+    --card-bg: #1b263b;
+    --card-border: #222f43;
+    --muted: #a8dadc;
+}
+.ai-impact-root {
+    font-family: &#39;Inter&#39;, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    margin: 0;
+    padding: 0;
+}
+.ai-impact-header {
+    text-align: center;
+    padding: 2.5rem 0 1rem 0;
+    color: var(--fg);
+    background: none;
+    box-shadow: none;
+}
+.ai-impact-header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--accent1);
+}
+.ai-impact-header p {
+    font-size: 1.25rem;
+    color: var(--muted);
+}
+.ai-impact-section {
+    margin: 0 auto 3rem auto;
+    max-width: 1100px;
+    padding: 0 1rem;
+}
+.ai-impact-section-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--accent2);
+    text-align: center;
+}
+.ai-impact-section-subtitle {
+    font-size: 1.125rem;
+    color: var(--muted);
+    text-align: center;
+    margin-bottom: 2rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ai-impact-grid {
+    display: grid;
+    gap: 1.5rem;
+}
+@media (min-width: 768px) {
+    .ai-impact-grid-3 { grid-template-columns: repeat(3, 1fr); }
+    .ai-impact-grid-2 { grid-template-columns: repeat(2, 1fr); }
+}
+.ai-impact-card {
+    background: var(--card-bg);
+    border-radius: 0.75rem;
+    border-top: 4px solid var(--card-border);
+    box-shadow: 0 4px 16px 0 rgba(0,0,0,0.12);
+    padding: 1.5rem;
+    text-align: center;
+}
+.ai-impact-card[data-accent=&#34;1&#34;] { border-top-color: var(--accent4); }
+.ai-impact-card[data-accent=&#34;2&#34;] { border-top-color: var(--accent3); }
+.ai-impact-card[data-accent=&#34;3&#34;] { border-top-color: var(--accent2); }
+.ai-impact-card[data-accent=&#34;4&#34;] { border-top-color: var(--accent1); }
+.ai-impact-card[data-accent=&#34;5&#34;] { border-top-color: var(--accent6); }
+.ai-impact-card[data-accent=&#34;6&#34;] { border-top-color: var(--accent5); }
+.ai-impact-card[data-accent=&#34;7&#34;] { border-top-color: var(--accent7); }
+.ai-impact-stat-number {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.ai-impact-stat-label {
+    font-size: 0.95rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+}
+.ai-impact-card p {
+    font-size: 0.85rem;
+    color: #bfc9d1;
+    margin-top: 0.5rem;
+}
+.ai-impact-pillar-card {
+    background: var(--card-bg);
+    border-left: 5px solid var(--card-border);
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+.ai-impact-pillar-card[data-accent=&#34;1&#34;] { border-left-color: var(--accent4); }
+.ai-impact-pillar-card[data-accent=&#34;2&#34;] { border-left-color: var(--accent3); }
+.ai-impact-pillar-card[data-accent=&#34;3&#34;] { border-left-color: var(--accent2); }
+.ai-impact-pillar-card[data-accent=&#34;4&#34;] { border-left-color: var(--accent1); }
+.ai-impact-pillar-card[data-accent=&#34;5&#34;] { border-left-color: var(--accent6); }
+.ai-impact-pillar-card[data-accent=&#34;6&#34;] { border-left-color: var(--accent5); }
+.ai-impact-pillar-card[data-accent=&#34;7&#34;] { border-left-color: var(--accent7); }
+.ai-impact-pillar-card h4, .ai-impact-pillar-card h3 {
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+.ai-impact-pillar-card[data-accent=&#34;1&#34;] h4, .ai-impact-pillar-card[data-accent=&#34;1&#34;] h3 { color: var(--accent4);}
+.ai-impact-pillar-card[data-accent=&#34;2&#34;] h4, .ai-impact-pillar-card[data-accent=&#34;2&#34;] h3 { color: var(--accent3);}
+.ai-impact-pillar-card[data-accent=&#34;3&#34;] h4, .ai-impact-pillar-card[data-accent=&#34;3&#34;] h3 { color: var(--accent2);}
+.ai-impact-pillar-card[data-accent=&#34;4&#34;] h4, .ai-impact-pillar-card[data-accent=&#34;4&#34;] h3 { color: var(--accent1);}
+.ai-impact-pillar-card[data-accent=&#34;5&#34;] h4, .ai-impact-pillar-card[data-accent=&#34;5&#34;] h3 { color: var(--accent6);}
+.ai-impact-pillar-card[data-accent=&#34;6&#34;] h4, .ai-impact-pillar-card[data-accent=&#34;6&#34;] h3 { color: var(--accent5);}
+.ai-impact-pillar-card[data-accent=&#34;7&#34;] h4, .ai-impact-pillar-card[data-accent=&#34;7&#34;] h3 { color: var(--accent7);}
+.ai-impact-arrow-down {
+    width: 0; height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 15px solid var(--accent3);
+    margin: 1rem auto;
+}
+.ai-impact-trend-item {
+    display: flex;
+    align-items: center;
+    background: var(--card-bg);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    margin-bottom: 0.75rem;
+}
+.ai-impact-trend-icon {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+}
+.ai-impact-footer {
+    text-align: center;
+    padding: 2rem 0 1rem 0;
+    color: var(--muted);
+    background: none;
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+.ai-impact-footer p { margin: 0.25rem 0; }
+.ai-impact-chart-container {
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 260px;
+    max-height: 320px;
+    background: none;
+}
+@media (min-width: 768px) {
+    .ai-impact-chart-container { height: 300px; max-height: 350px; }
+}
+&lt;/style&gt;
+&lt;div class=&#34;ai-impact-header&#34;&gt;
+    &lt;h1&gt;
+        &lt;span style=&#34;background: linear-gradient(90deg, #118AB2 0%, #06D6A0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent;&#34;&gt;
+            The AI Search Revolution
+        &lt;/span&gt;
+    &lt;/h1&gt;
+    &lt;p style=&#34;font-size:1.25rem; color:var(--muted); margin-top:0.5rem;&#34;&gt;
+        A brief infographic for founders and marketing leaders looking to learn AI&#39;s impact on search and business discovery.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;ai-impact-root&#34;&gt;
+    &lt;main&gt;
+        &lt;!-- Paradigm Shift --&gt;
+        &lt;section class=&#34;ai-impact-section&#34;&gt;
+            &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;A New Era of Information Discovery&lt;/h2&gt;
+            &lt;p class=&#34;ai-impact-section-subtitle&#34;&gt;
+                The shift to AI-augmented search is reshaping how users find information and how businesses need to achieve visibility. Traditional search is evolving rapidly.
+            &lt;/p&gt;
+            &lt;div class=&#34;ai-impact-grid ai-impact-grid-3&#34;&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34;&gt;
+                    &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent4)&#34;&gt;58%+&lt;/div&gt;
+                    &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Google searches ending without a click (Mid-2024)&lt;/div&gt;
+                    &lt;p&gt;AI delivers instant answers on SERP.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34;&gt;
+                    &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent3)&#34;&gt;180M+&lt;/div&gt;
+                    &lt;div class=&#34;ai-impact-stat-label&#34;&gt;ChatGPT monthly users (Mid-2024)&lt;/div&gt;
+                    &lt;p&gt;Signifying massive adoption of conversational AI.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34;&gt;
+                    &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent2)&#34;&gt;1B+&lt;/div&gt;
+                    &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Projected Google AI Overview users/month&lt;/div&gt;
+                    &lt;p&gt;Highlighting the scale of AI integration in search.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+        &lt;!-- AIO Triggers --&gt;
+        &lt;section class=&#34;ai-impact-section&#34;&gt;
+            &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;What Triggers Google&#39;s AI Overviews?&lt;/h2&gt;
+            &lt;p class=&#34;ai-impact-section-subtitle&#34;&gt;
+                Understanding the factors that prompt AI Overviews (AIOs) is key. Data from late 2024/early 2025 reveals distinct patterns. These are interactive charts.
+            &lt;/p&gt;
+            &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34;&gt;
+                &lt;div class=&#34;ai-impact-card&#34; style=&#34;padding-bottom:2.5rem;&#34;&gt;
+                    &lt;h3 style=&#34;font-size:1.15rem;font-weight:600;color:var(--accent7);margin-bottom:0.75rem;&#34;&gt;Query Length vs. AIO Appearance&lt;/h3&gt;
+                    &lt;div class=&#34;ai-impact-chart-container&#34;&gt;&lt;canvas id=&#34;aioQueryLengthChart&#34;&gt;&lt;/canvas&gt;&lt;/div&gt;
+                    &lt;p&gt;Longer, more specific queries are &lt;strong&gt;5.4x&lt;/strong&gt; more likely to trigger AIOs (10-word vs 1-word queries).&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-card&#34; style=&#34;padding-bottom:2.5rem;&#34;&gt;
+                    &lt;h3 style=&#34;font-size:1.15rem;font-weight:600;color:var(--accent7);margin-bottom:0.75rem;&#34;&gt;Search Volume vs. AIO Appearance&lt;/h3&gt;
+                    &lt;div class=&#34;ai-impact-chart-container&#34;&gt;&lt;canvas id=&#34;aioSearchVolumeChart&#34;&gt;&lt;/canvas&gt;&lt;/div&gt;
+                    &lt;p&gt;Lower search volume keywords (0-100/month) trigger AIOs most frequently (around 30-32%).&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-card&#34; style=&#34;padding-bottom:2.5rem;&#34;&gt;
+                    &lt;h3 style=&#34;font-size:1.15rem;font-weight:600;color:var(--accent7);margin-bottom:0.75rem;&#34;&gt;Keyword Difficulty (KD) vs. AIO&lt;/h3&gt;
+                    &lt;div class=&#34;ai-impact-chart-container&#34;&gt;&lt;canvas id=&#34;aioKDChart&#34;&gt;&lt;/canvas&gt;&lt;/div&gt;
+                    &lt;p&gt;Medium difficulty keywords (KD 21-40) see the highest AIO appearance (33.4%).&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-card&#34; style=&#34;padding-bottom:2.5rem;&#34;&gt;
+                    &lt;h3 style=&#34;font-size:1.15rem;font-weight:600;color:var(--accent7);margin-bottom:0.75rem;&#34;&gt;AIOs &amp; Other SERP Features&lt;/h3&gt;
+                    &lt;div class=&#34;ai-impact-chart-container&#34;&gt;&lt;canvas id=&#34;aioCooccurrenceChart&#34;&gt;&lt;/canvas&gt;&lt;/div&gt;
+                    &lt;p&gt;99.25% of AIOs appear with other features. &#34;People Also Ask&#34; is the most common companion.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div style=&#34;margin-top:2rem;text-align:center;&#34;&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34; style=&#34;display:inline-block;max-width:260px;&#34;&gt;
+                    &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent1)&#34;&gt;~30%&lt;/div&gt;
+                    &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Of all search queries estimated to trigger an AI Overview.&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+        &lt;!-- AIO Citation --&gt;
+        &lt;section class=&#34;ai-impact-section&#34;&gt;
+            &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;How Google Selects Content for AIOs&lt;/h2&gt;
+            &lt;p class=&#34;ai-impact-section-subtitle&#34;&gt;
+                AIOs cite multiple sources. Getting your content cited involves a blend of authority, relevance, and AI-friendly formatting.
+            &lt;/p&gt;
+            &lt;div class=&#34;ai-impact-grid ai-impact-grid-3&#34;&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;1&#34;&gt;
+                    &lt;h4&gt;E-E-A-T Signals&lt;/h4&gt;
+                    &lt;p&gt;Prioritizes factually accurate, updated content from domains with strong traffic, keyword rankings, and backlinks.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;2&#34;&gt;
+                    &lt;h4&gt;Content Relevance &amp; Quality&lt;/h4&gt;
+                    &lt;p&gt;Directly aligns with user intent, uses conversational language, provides direct answers, and explores topics comprehensively.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;3&#34;&gt;
+                    &lt;h4&gt;Structure &amp; Readability&lt;/h4&gt;
+                    &lt;p&gt;Well-structured with clear headings, lists, and concise language for easy AI parsing and user understanding.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;4&#34;&gt;
+                    &lt;h4&gt;Unique Value &amp; Experience&lt;/h4&gt;
+                    &lt;p&gt;Values content showcasing direct experience, use cases, best practices, and clear process outlines.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;5&#34;&gt;
+                    &lt;h4&gt;Technical SEO&lt;/h4&gt;
+                    &lt;p&gt;Optimized structured data (schema) is essential. Video content can also increase citation likelihood.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;7&#34;&gt;
+                    &lt;h4&gt;Top Organic Rankings&lt;/h4&gt;
+                    &lt;p&gt;Majority of AIO links (75%) come from sites already in the top 10-12 organic results.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34; style=&#34;margin-top:2rem;&#34;&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;7&#34;&gt;
+                    &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent3)&#34;&gt;13.3&lt;/div&gt;
+                    &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Average sources cited per AI Overview.&lt;/div&gt;    &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;7&#34;&gt;
+                    &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent3)&#34;&gt;43%&lt;/div&gt;
+                    &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Of AIOs link back to &lt;i&gt;Google&#39;s own properties.&lt;/i&gt;&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+        &lt;!-- Chatbot Landscape --&gt;
+        &lt;section class=&#34;ai-impact-section&#34;&gt;
+            &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;The Chatbot Ecosystem: Key Player Insights&lt;/h2&gt;
+            &lt;p class=&#34;ai-impact-section-subtitle&#34;&gt;
+                Visibility on platforms like ChatGPT, Claude, and Perplexity AI requires understanding their unique sourcing and optimization levers.
+            &lt;/p&gt;
+            &lt;div class=&#34;ai-impact-grid ai-impact-grid-3&#34; style=&#34;margin-bottom:1.5rem;&#34;&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34; style=&#34;text-align:left;&#34;&gt;
+                    &lt;h3 style=&#34;font-size:1.3rem;font-weight:600;color:var(--accent4);margin-bottom:0.5rem;&#34;&gt;
+                        ChatGPT (OpenAI)
+                    &lt;/h3&gt;
+                    &lt;p&gt;&lt;strong&gt;Sourcing:&lt;/strong&gt; Training data &amp; live web browsing (newer versions). Transforms user prompts into specific search queries, considering keywords, intent, recency, and credibility.&lt;/p&gt;
+                    &lt;p&gt;&lt;strong&gt;Optimization Focus:&lt;/strong&gt; Precise keyword strategy for transformed queries, content freshness, E-E-A-T, conversational tone.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34; style=&#34;text-align:left;&#34;&gt;
+                    &lt;h3 style=&#34;font-size:1.3rem;font-weight:600;color:var(--accent3);margin-bottom:0.5rem;&#34;&gt;Claude (Anthropic)&lt;/h3&gt;
+                    &lt;p&gt;&lt;strong&gt;Sourcing:&lt;/strong&gt; Enhanced web search (as of March 2025) with direct citations. Prioritizes relevance, especially for research/professional queries.&lt;/p&gt;
+                    &lt;p&gt;&lt;strong&gt;Optimization Focus:&lt;/strong&gt; Authoritative, well-referenced, clearly structured long-form content. Strong for academic/research use.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34; style=&#34;text-align:left;&#34;&gt;
+                    &lt;h3 style=&#34;font-size:1.3rem;font-weight:600;color:var(--accent2);margin-bottom:0.5rem;&#34;&gt;
+                        Perplexity AI
+                    &lt;/h3&gt;
+                    &lt;p&gt;&lt;strong&gt;Sourcing:&lt;/strong&gt; Real-time web search across reputable sources, providing direct answers with citations. &#34;Answer Engine&#34; model.&lt;/p&gt;
+                    &lt;p&gt;&lt;strong&gt;Optimization Focus:&lt;/strong&gt; Content structured for Q&amp;amp;A, clear formatting, links to credible sources, FAQs, niche authority, fresh &amp;amp; detailed content.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;p style=&#34;font-size:0.95rem;text-align:center;margin-top:1.5rem;color:var(--muted);&#34;&gt;
+                Note: DeepSeek has significant data privacy concerns, advising caution for active optimization efforts. [Report Sec 3.5]
+            &lt;/p&gt;
+            &lt;/section&gt;    &lt;!-- SEO &amp; GEO Synergy --&gt;
+        &lt;section class=&#34;ai-impact-section&#34;&gt;
+            &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;SEO &amp; GEO: A Powerful Synergy&lt;/h2&gt;
+            &lt;p class=&#34;ai-impact-section-subtitle&#34;&gt;
+                Strong traditional SEO is foundational for GEO success. High organic rankings often translate to AI visibility.
+            &lt;/p&gt;
+            &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34;&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34;&gt;
+                    &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent1)&#34;&gt;0.65&lt;/div&gt;
+                    &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Approx. correlation: Google Page 1 ranks &amp; LLM mentions (e.g., ChatGPT).&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;7&#34;&gt;
+                    &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent5)&#34;&gt;75%&lt;/div&gt;
+                    &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Of Google AIO links come from sites in top 12 organic rankings.&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34; style=&#34;margin-top:2rem;text-align:left;position:relative;box-shadow:0 6px 32px 0 rgba(0,0,0,0.18);border:none;overflow:hidden;&#34;&gt;
+                &lt;div style=&#34;
+                    content:&#39;&#39;;
+                    position:absolute;
+                    inset:0;
+                    z-index:0;
+                    border-radius:0.85rem;
+                    padding:2.5px;
+                    background:linear-gradient(90deg, var(--accent4), var(--accent3), var(--accent2), var(--accent1));
+                    -webkit-mask:linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+                    -webkit-mask-composite:xor;
+                    mask-composite:exclude;
+                    pointer-events:none;
+                &#34;&gt;&lt;/div&gt;
+                &lt;div style=&#34;position:relative;z-index:1;&#34;&gt;
+                    &lt;h3 style=&#34;font-size:1.1rem;font-weight:600;text-align:center;color:var(--accent7);margin-bottom:1rem;&#34;&gt;
+                        Key SEO Foundations Amplified for GEO:
+                    &lt;/h3&gt;
+                    &lt;ul style=&#34;columns:2;column-gap:2rem;list-style:disc inside;color:var(--muted);font-size:1rem;&#34;&gt;
+                        &lt;li&gt;Topical Authority&lt;/li&gt;
+                        &lt;li&gt;E-E-A-T Signals&lt;/li&gt;
+                        &lt;li&gt;Evolved Keyword Research (Conversational, Long-tail)&lt;/li&gt;
+                        &lt;li&gt;High-Quality, In-depth Content&lt;/li&gt;
+                        &lt;li&gt;Technical SEO (Speed, Mobile, HTTPS)&lt;/li&gt;
+                        &lt;li&gt;Structured Data (Schema Markup)&lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;    &lt;/section&gt;
+        &lt;!-- GEO Action Plan --&gt;
+        &lt;section class=&#34;ai-impact-section&#34;&gt;
+            &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Streamlined GEO Action Plan&lt;/h2&gt;
+            &lt;p class=&#34;ai-impact-section-subtitle&#34;&gt;
+                Success in AI search hinges on four key pillars. Here&#39;s a simplified flow:
+            &lt;/p&gt;
+            &lt;div style=&#34;max-width:700px;margin:0 auto;&#34;&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;1&#34;&gt;
+                    &lt;h3&gt;1. AI-Friendly Content Excellence&lt;/h3&gt;
+                    &lt;p&gt;Prioritize E-E-A-T, deep user intent analysis, direct answers, clarity, unique value, and freshness.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-arrow-down&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;2&#34;&gt;
+                    &lt;h3&gt;2. Conversational &amp; Definitional Style&lt;/h3&gt;
+                    &lt;p&gt;Use natural language, structure for easy comprehension (headings, lists), incorporate definitions, and add FAQs.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-arrow-down&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;3&#34;&gt;
+                    &lt;h3&gt;3. Technical Excellence for AI&lt;/h3&gt;
+                    &lt;p&gt;Implement structured data (schema), optimize speed &amp; mobile, ensure clear URLs &amp; internal links, HTTPS, and optimize multimodal assets.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ai-impact-arrow-down&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;ai-impact-pillar-card&#34; data-accent=&#34;4&#34;&gt;
+                    &lt;h3&gt;4. Unshakeable Authority &amp; Trust&lt;/h3&gt;
+                    &lt;p&gt;Build authoritative backlinks (foundational), encourage reviews, establish thought leadership, distribute content, and ensure consistent branding.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+        &lt;!-- Future Trends --&gt;
+        &lt;section class=&#34;ai-impact-section&#34;&gt;
+            &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;The Horizon: Emerging GEO Trends (2025+)&lt;/h2&gt;
+            &lt;p class=&#34;ai-impact-section-subtitle&#34;&gt;
+                The GEO landscape is constantly evolving. Staying ahead means embracing these key trends:
+            &lt;/p&gt;
+            &lt;div style=&#34;max-width:600px;margin:0 auto;&#34;&gt;
+                &lt;div class=&#34;ai-impact-trend-item&#34;&gt;&lt;span class=&#34;ai-impact-trend-icon&#34; style=&#34;color:var(--accent4)&#34;&gt;🖼️&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Multimodal Optimization:&lt;/strong&gt; Optimizing text, images, video, audio with RAG &amp; schema.&lt;/span&gt;&lt;/div&gt;
+                &lt;div class=&#34;ai-impact-trend-item&#34;&gt;&lt;span class=&#34;ai-impact-trend-icon&#34; style=&#34;color:var(--accent3)&#34;&gt;🌐&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Universal Search Optimization (USO):&lt;/strong&gt; Holistic strategies across search, social, and other touchpoints.&lt;/span&gt;&lt;/div&gt;
+                &lt;div class=&#34;ai-impact-trend-item&#34;&gt;&lt;span class=&#34;ai-impact-trend-icon&#34; style=&#34;color:var(--accent2)&#34;&gt;🧠&lt;/span&gt;&lt;span&gt;&lt;strong&gt;AI-Powered Content Hubs (RAG):&lt;/strong&gt; Leveraging internal data for relevant AI-generated answers.&lt;/span&gt;&lt;/div&gt;
+                &lt;div class=&#34;ai-impact-trend-item&#34;&gt;&lt;span class=&#34;ai-impact-trend-icon&#34; style=&#34;color:var(--accent1)&#34;&gt;🔗&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Entity Mapping:&lt;/strong&gt; Enhancing topical authority by focusing on core entities.&lt;/span&gt;&lt;/div&gt;
+                &lt;div class=&#34;ai-impact-trend-item&#34;&gt;&lt;span class=&#34;ai-impact-trend-icon&#34; style=&#34;color:var(--accent5)&#34;&gt;📈&lt;/span&gt;&lt;span&gt;&lt;strong&gt;AI for UX &amp; Conversion Optimization:&lt;/strong&gt; Identifying and fixing UX friction points.&lt;/span&gt;&lt;/div&gt;
+                &lt;div class=&#34;ai-impact-trend-item&#34;&gt;&lt;span class=&#34;ai-impact-trend-icon&#34; style=&#34;color:var(--accent7)&#34;&gt;📡&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Real-time AI Monitoring:&lt;/strong&gt; Tracking critical site changes and performance.&lt;/span&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+    &lt;/main&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+function formatLabel(str, maxWidth) {
+    if (typeof str !== &#39;string&#39;) return [String(str)];
+    if (str.length &lt;= maxWidth) return [str];
+    const words = str.split(&#39; &#39;);
+    let currentLine = &#39;&#39;;
+    const lines = [];
+    for (let word of words) {
+        if ((currentLine + word).length &gt; maxWidth &amp;&amp; currentLine.length &gt; 0) {
+            lines.push(currentLine);
+            currentLine = word;
+        } else {
+            if (currentLine.length &gt; 0) {
+                currentLine += &#39; &#39; + word;
+            } else {
+                currentLine = word;
+            }
+        }
+    }
+    if (currentLine.length &gt; 0) lines.push(currentLine);
+    return lines.length &gt; 0 ? lines : [str];
+}
+const tooltipTitleCallback = function(tooltipItems) {
+    const item = tooltipItems[0];
+    let label = item.chart.data.labels[item.dataIndex];
+    if (Array.isArray(label)) return label.join(&#39; &#39;);
+    else return label;
+};
+document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    // Query Length
+    const aioQueryLengthCtx = document.getElementById(&#39;aioQueryLengthChart&#39;);
+    if (aioQueryLengthCtx) {
+        new Chart(aioQueryLengthCtx, {
+            type: &#39;bar&#39;,
+            data: {
+                labels: [&#39;1 Word&#39;, &#39;2-3 Words&#39;, &#39;4-6 Words&#39;, &#39;7-9 Words&#39;, &#39;10+ Words&#39;].map(l =&gt; formatLabel(l,16)),
+                datasets: [{
+                    label: &#39;AIO Appearance %&#39;,
+                    data: [12.78, 25, 45, 60, 69.21],
+                    backgroundColor: &#39;#FF6B6B&#39;,
+                    borderRadius: 4,
+                }]
+            },
+            options: {
+                responsive: true, maintainAspectRatio: false, indexAxis: &#39;y&#39;,
+                scales: { x: { beginAtZero: true, max: 75, ticks: { color:&#39;#f1faee&#39;, callback: value =&gt; value + &#39;%&#39; } } },
+                plugins: { legend: { display: false }, tooltip: { callbacks: { title: tooltipTitleCallback, label: ctx =&gt; `${ctx.dataset.label}: ${ctx.raw.toFixed(2)}%` } } }
+            }
+        });
+    }
+    // Search Volume
+    const aioSearchVolumeCtx = document.getElementById(&#39;aioSearchVolumeChart&#39;);
+    if (aioSearchVolumeCtx) {
+        new Chart(aioSearchVolumeCtx, {
+            type: &#39;bar&#39;,
+            data: {
+                labels: [&#39;0-100&#39;, &#39;101-1K&#39;, &#39;1K-10K&#39;, &#39;10K-100K&#39;, &#39;100K+&#39;].map(l =&gt; formatLabel(l,16)),
+                datasets: [{
+                    label: &#39;AIO Appearance %&#39;,
+                    data: [31, 28, 22, 15, 10.5],
+                    backgroundColor: &#39;#FFD166&#39;,
+                    borderRadius: 4,
+                }]
+            },
+            options: {
+                responsive: true, maintainAspectRatio: false,
+                scales: { y: { beginAtZero: true, max: 35, ticks: { color:&#39;#f1faee&#39;, callback: value =&gt; value + &#39;%&#39; } } },
+                plugins: { legend: { display: false }, tooltip: { callbacks: { title: tooltipTitleCallback, label: ctx =&gt; `${ctx.dataset.label}: ${ctx.raw.toFixed(2)}%` } } }
+            }
+        });
+    }
+    // KD
+    const aioKDCtx = document.getElementById(&#39;aioKDChart&#39;);
+    if (aioKDCtx) {
+        new Chart(aioKDCtx, {
+            type: &#39;bar&#39;,
+            data: {
+                labels: [&#39;KD 0-20&#39;, &#39;KD 21-40&#39;, &#39;KD 41-60&#39;, &#39;KD 61-80&#39;, &#39;KD 81-100&#39;].map(l =&gt; formatLabel(l,16)),
+                datasets: [{
+                    label: &#39;AIO Appearance %&#39;,
+                    data: [25, 33.4, 28, 15, 3.7],
+                    backgroundColor: &#39;#06D6A0&#39;,
+                    borderRadius: 4,
+                }]
+            },
+            options: {
+                responsive: true, maintainAspectRatio: false,
+                scales: { y: { beginAtZero: true, max: 35, ticks: { color:&#39;#f1faee&#39;, callback: value =&gt; value + &#39;%&#39; } } },
+                plugins: { legend: { display: false }, tooltip: { callbacks: { title: tooltipTitleCallback, label: ctx =&gt; `${ctx.dataset.label}: ${ctx.raw.toFixed(2)}%` } } }
+            }
+        });
+    }
+    // Co-occurrence
+    const aioCooccurrenceCtx = document.getElementById(&#39;aioCooccurrenceChart&#39;);
+    if (aioCooccurrenceCtx) {
+        new Chart(aioCooccurrenceCtx, {
+            type: &#39;doughnut&#39;,
+            data: {
+                labels: [&#39;People Also Ask (PAA)&#39;, &#39;Video Carousels&#39;, &#39;Other SERP Features&#39;].map(l =&gt; formatLabel(l,16)),
+                datasets: [{
+                    label: &#39;Co-occurrence with AIOs&#39;,
+                    data: [98.54, 45.17, (99.25 - 98.54)],
+                    backgroundColor: [&#39;#118AB2&#39;, &#39;#8A4FFF&#39;, &#39;#073B4C&#39;],
+                    hoverOffset: 4
+                }]
+            },
+            options: {
+                responsive: true, maintainAspectRatio: false,
+                plugins: { 
+                    legend: { position: &#39;bottom&#39;, labels: { color:&#39;#f1faee&#39; } }, 
+                    tooltip: { callbacks: { title: tooltipTitleCallback, label: ctx =&gt; `${ctx.label}: ${ctx.raw.toFixed(2)}%` } }
+                }
+            }
+        });
+    }
+});
+&lt;/script&gt;
+&lt;hr&gt;
+&lt;div class=&#34;hx:mt-12&#34;&gt;&lt;/div&gt;
+&lt;div style=&#34;max-width: 90rem; margin-left: auto; margin-right: auto; padding-left: 1rem; padding-right: 1rem;&#34;&gt;
+  &lt;div class=&#34;hx:grid hx:grid-cols-1 hx:md:grid-cols-2 hx:gap-8 hx:items-center hx:mb-12&#34;&gt;
+    &lt;div&gt;
+      &lt;h1
+  class=&#34;not-prose hx:text-4xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-5xl hx:py-2 hx:bg-clip-text hx:text-transparent hx:bg-gradient-to-r hx:from-gray-900 hx:to-gray-600 hx:dark:from-gray-100 hx:dark:to-gray-400&#34;
+&lt;blockquote&gt;
+  
+&lt;/blockquote&gt;
+  &lt;span style=&#34;background: linear-gradient(90deg, #118AB2 0%, #06D6A0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent;&#34;&gt;
+    Get the detailed guide
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p
+  class=&#34;not-prose hx:text-xl hx:text-gray-600 hx:dark:text-gray-400 hx:sm:text-xl&#34;
+&lt;blockquote&gt;
+  
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Read an in-depth version of this report. Get the full strategic guide&lt;br class=&#34;hx:sm:block hx:hidden&#34; /&gt;on mastering visibility in the age of AI-Driven search.&lt;/strong&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 1rem; margin-top: 1rem;&#34;&gt;
+    &lt;span style=&#34;font-size: 1.25rem; font-weight: 600; color:rgb(144, 149, 150);&#34;&gt;
+        Fill the form to access your free resource
+    &lt;/span&gt;
+    &lt;svg width=&#34;70&#34; height=&#34;40&#34; viewBox=&#34;0 0 70 40&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; style=&#34;vertical-align: middle;&#34;&gt;
+        &lt;path d=&#34;M2 10 Q25 35 68 20&#34; stroke=&#34;#118AB2&#34; stroke-width=&#34;3&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+        &lt;path d=&#34;M60 18 L68 20 L62 26&#34; stroke=&#34;#118AB2&#34; stroke-width=&#34;3&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;&lt;/svg&gt;
+&lt;/div&gt;
+&lt;div class=&#34;hx:mt-2 hx:mb-12&#34;&gt;  
+    &lt;p&gt;This strategic guide goes beyond the infographics above and provides a deep insight into the following areas:&lt;/p&gt;&lt;br/&gt;
+    &lt;ul&gt;
+        &lt;li&gt;→ Our observations on the changing nature of search&lt;/li&gt;
+        &lt;li&gt;→ Decoding Google&#39;s AI Overviews&lt;/li&gt;
+        &lt;li&gt;→ How popular chatbots retrieve information&lt;/li&gt;
+        &lt;li&gt;→ Strategies to appear in AI chat&lt;/li&gt;
+        &lt;li&gt;→ How traditional SEO influences AI visibility&lt;/li&gt;
+        &lt;li&gt;→ A comprehensive GEO action plan&lt;/li&gt;
+        &lt;li&gt;→ Tracking performance&lt;/li&gt;
+    &lt;/ul&gt;&lt;br/&gt;
+    &lt;p&gt;This shift in search is also shifting the very nature of the web as we know it. Being prepared to deal with this now is going to be the best way to deal with rapid changes.&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;hx:flex hx:justify-center hx:py-8&#34;&gt;
+      
+      
+        &lt;form action=&#34;https://api.web3forms.com/submit&#34; method=&#34;POST&#34; id=&#34;form&#34; class=&#34;hx:max-w-lg hx:mx-auto hx:my-10 hx:bg-gray-900 hx:p-8 hx:rounded-lg hx:shadow-md hx:border hx:border-gray-700&#34; style=&#34;background:linear-gradient(135deg,#073B4C 0%,#118AB2 100%);border-radius:0.5rem;padding:2rem;&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;access_key&#34; value=&#34;a7dc54bb-c1e6-4bdb-af33-1efc6fa30909&#34; required /&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;subject&#34; value=&#34;AI Impact Search&#34; required /&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;botcheck&#34; style=&#34;display:none;&#34; /&gt;
+    &lt;div class=&#34;hx:space-y-6&#34;&gt;
+        &lt;div&gt;
+            &lt;label for=&#34;full_name&#34; class=&#34;hx:block hx:mb-2 hx:text-sm hx:text-gray-300&#34;&gt;Full Name&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;full_name&#34; id=&#34;full_name&#34; placeholder=&#34;John Doe&#34; required class=&#34;hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none&#34; /&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;label for=&#34;email_address&#34; class=&#34;hx:block hx:mb-2 hx:mt-4 hx:text-sm hx:text-gray-300&#34;&gt;Email Address&lt;/label&gt;
+            &lt;input type=&#34;email&#34; name=&#34;email_address&#34; id=&#34;email_address&#34; placeholder=&#34;you@company.com&#34; required class=&#34;hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none&#34; /&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;label for=&#34;company_name&#34; class=&#34;hx:block hx:mb-2 hx:mt-4 hx:text-sm hx:text-gray-300&#34;&gt;Company Name&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;company_name&#34; id=&#34;company_name&#34; placeholder=&#34;Acme Corp&#34; required class=&#34;hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none&#34; /&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;label for=&#34;job_title&#34; class=&#34;hx:block hx:mb-2 hx:mt-4 hx:text-sm hx:text-gray-300&#34;&gt;Job Title&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;job_title&#34; id=&#34;job_title&#34; placeholder=&#34;Marketing Manager&#34; required class=&#34;hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none&#34; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;hx:mt-4&#34;&gt;
+            &lt;label class=&#34;hx:flex hx:items-center hx:text-sm hx:text-gray-300&#34;&gt;
+                &lt;input type=&#34;checkbox&#34; name=&#34;consent&#34; required checked class=&#34;hx:mr-2&#34; /&gt;
+                I consent to receive emails from Get Strategiq.
+            &lt;/label&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;hx:mt-4&#34;&gt;
+            &lt;div class=&#34;g-recaptcha&#34; data-sitekey=&#34;6LdYnEYrAAAAAIld6zPLJp2RhBIrT9eaIYqF6d8C&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;button type=&#34;submit&#34; class=&#34;hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn&#34;&gt;
+            Access Resource
+        &lt;/button&gt;
+        &lt;input type=&#34;hidden&#34; name=&#34;redirect&#34; value=&#34;https://docs.google.com/document/d/1tWwo-HuO4c-Vv5lLxheTdbushPk5IbMIlBTy7r7ObNI/edit?usp=sharing&#34; required&gt;
+        &lt;p class=&#34;hx:text-base hx:text-center hx:text-gray-400&#34; id=&#34;result&#34;&gt;&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+&lt;script src=&#34;https://www.google.com/recaptcha/api.js&#34; async defer&gt;&lt;/script&gt;
+&lt;style&gt;
+    .access-resource-btn:hover, .access-resource-btn:focus {
+        box-shadow:0 0 0 3px #06D6A0,0 0 12px 4px #118AB2;
+        border-color:#06D6A0!important;
+        transition:box-shadow 0.2s,border-color 0.2s;
+    }
+&lt;/style&gt;
+
+
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;footer class=&#34;ai-impact-footer&#34;&gt;
+        &lt;p&gt;&amp;copy; 2025 Get Strategiq.&lt;/p&gt;
+        &lt;p style=&#34;font-size:0.9rem;&#34;&gt;Data points and statistics are reflective of information available up to early/mid-2025.&lt;/p&gt;
+&lt;/footer&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Inbound Lead Generation for Princeton Blue</title>
+      <link>http://localhost:1313/case-studies/linkedin-growth-pramod-sachdeva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/case-studies/linkedin-growth-pramod-sachdeva/</guid>
+      <description>
+        
+        
+        &lt;style&gt;
+:root {
+    --bg: #0d1b2a;
+    --fg: #f1faee;
+    --accent1: #118AB2;
+    --accent2: #06D6A0;
+    --accent3: #FFD166;
+    --accent4: #FF6B6B;
+    --accent5: #8A4FFF;
+    --accent6: #F582AE;
+    --accent7: #073B4C;
+    --card-bg: #1b263b;
+    --card-border: #222f43;
+    --muted: #a8dadc;
+}
+.ai-impact-root {
+    background: none !important;
+    color: var(--fg);
+    margin: 0;
+    padding: 0;
+}
+.ai-impact-root, .ai-impact-root * {
+    font-family: inherit !important;
+}
+.ai-impact-section {
+    margin: 0 auto 4.5rem auto !important;
+    max-width: 1100px;
+    padding: 0 1rem;
+}
+.ai-impact-grid {
+    display: grid;
+    gap: 1.5rem;
+}
+@media (min-width: 768px) {
+    .ai-impact-grid-3 { grid-template-columns: repeat(3, 1fr); }
+    .ai-impact-grid-2 { grid-template-columns: repeat(2, 1fr); }
+}
+.ai-impact-card,
+.ai-impact-pillar-card,
+.ai-impact-trend-item {
+    background: rgba(27, 38, 59, 0.98) !important;
+    position: relative;
+    z-index: 1;
+    border-radius: 0.85rem !important;
+    border: none !important;
+    box-shadow: 0 4px 24px 0 rgba(0,0,0,0.16);
+    overflow: hidden;
+    padding: 2rem 1.5rem 1.5rem 1.5rem !important;
+    font-family: inherit !important;
+}
+.ai-impact-card[data-accent],
+.ai-impact-pillar-card[data-accent] {
+    border: none !important;
+}
+.ai-impact-card[data-accent]:before,
+.ai-impact-pillar-card[data-accent]:before {
+    content: &#34;&#34;;
+    position: absolute;
+    z-index: 0;
+    inset: 0;
+    border-radius: inherit;
+    padding: 2px;
+    background: linear-gradient(90deg,
+        var(--accent4) 0%,
+        var(--accent3) 33%,
+        var(--accent2) 66%,
+        var(--accent1) 100%);
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box, 
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+}
+.ai-impact-card[data-accent=&#34;1&#34;]:before { background: linear-gradient(90deg, var(--accent4), var(--accent3)); }
+.ai-impact-card[data-accent=&#34;2&#34;]:before { background: linear-gradient(90deg, var(--accent3), var(--accent2)); }
+.ai-impact-card[data-accent=&#34;3&#34;]:before { background: linear-gradient(90deg, var(--accent2), var(--accent1)); }
+.ai-impact-card[data-accent=&#34;4&#34;]:before { background: linear-gradient(90deg, var(--accent1), var(--accent6)); }
+.ai-impact-card[data-accent=&#34;5&#34;]:before { background: linear-gradient(90deg, var(--accent6), var(--accent5)); }
+.ai-impact-card[data-accent=&#34;6&#34;]:before { background: linear-gradient(90deg, var(--accent5), var(--accent7)); }
+.ai-impact-card[data-accent=&#34;7&#34;]:before { background: linear-gradient(90deg, var(--accent7), var(--accent4)); }
+.ai-impact-card &gt; *,
+.ai-impact-pillar-card &gt; * {
+    position: relative;
+    z-index: 1;
+    font-family: inherit !important;
+}
+.ai-impact-card h1,
+.ai-impact-card h2,
+.ai-impact-card h3,
+.ai-impact-card h4,
+.ai-impact-card h5,
+.ai-impact-card h6,
+.ai-impact-card p,
+.ai-impact-card ul,
+.ai-impact-card ol,
+.ai-impact-card li {
+    font-family: inherit !important;
+    color: inherit;
+    margin-bottom: 0.75rem;
+    line-height: 1.6;
+}
+.ai-impact-card ul,
+.ai-impact-card ol {
+    padding-left: 1.25rem;
+    margin-bottom: 1rem;
+}
+.ai-impact-card li {
+    margin-bottom: 0.4rem;
+}
+.ai-impact-card h3,
+.ai-impact-card h4 {
+    color: #f1faee !important;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.12);
+}
+.ai-impact-header {
+    text-align: center;
+    padding: 2.5rem 0 1rem 0;
+    color: var(--fg);
+    background: none;
+    box-shadow: none;
+}
+.ai-impact-header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--accent1);
+}
+.ai-impact-header p {
+    font-size: 1.25rem;
+    color: var(--muted);
+}
+.ai-impact-section-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--accent2);
+    text-align: center;
+}
+.ai-impact-section-subtitle {
+    font-size: 1.125rem;
+    color: var(--muted);
+    text-align: center;
+    margin-bottom: 2rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ai-impact-stat-number {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.ai-impact-stat-label {
+    font-size: 0.95rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+}
+.ai-impact-card p {
+    font-size: 0.85rem;
+    color: #bfc9d1;
+    margin-top: 0.5rem;
+}
+&lt;/style&gt;
+&lt;div class=&#34;ai-impact-root&#34;&gt;
+&lt;main&gt;
+&lt;!-- Hero Section --&gt;
+&lt;section class=&#34;ai-impact-section&#34;&gt;
+  &lt;div class=&#34;ai-impact-header&#34;&gt;
+    &lt;h1&gt;
+      &lt;span style=&#34;background: linear-gradient(90deg, #118AB2 0%, #06D6A0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent;&#34;&gt;
+        Inbound Sales - A LinkedIn Growth Case Study
+      &lt;/span&gt;
+    &lt;/h1&gt;
+    &lt;p style=&#34;font-size:1.25rem; color:var(--muted); margin-top:0.5rem;&#34;&gt;
+      for Pramod Sacheva, Founder and Managing Director at Princeton Blue
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- Client &amp; Hook Section --&gt;
+&lt;section class=&#34;ai-impact-section&#34;&gt;
+  &lt;div class=&#34;ai-impact-grid ai-impact-grid-3&#34;&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34; style=&#34;grid-column: span 2; text-align:left;&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34; style=&#34;text-align:left;&#34;&gt;The Client: Princeton Blue&lt;/h2&gt;
+      &lt;p&gt;&lt;strong&gt;Pramod Sachdeva&lt;/strong&gt;, Founder and Managing Director of Princeton Blue, leads a trusted firm in process automation, delivering impactful business outcomes for pharma and biotech clients swiftly.&lt;/p&gt;
+      &lt;p&gt;Utilizing the Appian AI process platform, Princeton Blue excels in automating workflows, integrating data from critical systems (Veeva, SAP, LIMS/ELN), and providing actionable intelligence.&lt;/p&gt;
+      &lt;p&gt;With 16 years of expertise, they have successfully delivered &lt;strong&gt;370 process automation projects&lt;/strong&gt; for 12 global life sciences clients, including &lt;strong&gt;59 projects in 2024 alone&lt;/strong&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34; style=&#34;text-align:center; box-shadow:0 8px 40px 0 rgba(17,138,178,0.25), 0 0 0 4px var(--accent1); border-radius:1.1rem; border: none; position:relative; z-index:2; padding:2.5rem 2rem 2rem 2rem !important; margin-top:1.5rem; margin-bottom:2.5rem; background: linear-gradient(120deg, rgba(17,138,178,0.18) 0%, rgba(6,214,160,0.10) 100%), rgba(27,38,59,0.98);&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent1); font-size:3.2rem; font-weight:900; letter-spacing:-1px; text-shadow:0 2px 16px rgba(17,138,178,0.18);&#34;&gt;925%&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34; style=&#34;font-size:1.25rem; color:var(--accent1); font-weight:700; margin-bottom:0.5rem;&#34;&gt;Impression Growth in 90 Days&lt;/div&gt;
+      &lt;p style=&#34;font-size:1.1rem; color:var(--fg); font-weight:500;&#34;&gt;Average daily impressions skyrocketed with a focused strategy.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- Challenge &amp; Solution Section --&gt;
+&lt;section class=&#34;ai-impact-section&#34;&gt;
+  &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34;&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34; style=&#34;text-align:left;&#34;&gt;
+      &lt;h3 class=&#34;ai-impact-section-title&#34; style=&#34;font-size:1.3rem;text-align:left;&#34;&gt;The Challenge&lt;/h3&gt;
+      &lt;p&gt;Despite Princeton Blue&#39;s stellar track record, the company faced surmounting challenges with cold outreach.&lt;/p&gt; 
+      &lt;p&gt;They worked with agencies for 6 months who utilized the same boilerplate approach of finding contacts, finding emails, validating them, sending emails and cold calling.&lt;/p&gt; 
+      &lt;p&gt;Post covid, this approach did not work and had 0 results. Princeton Blue was failing to effectively reach decision-makers at target pharma and biotech companies like J&amp;J and Eli Lilly. This had to be fixed.&lt;/p&gt;&lt;/br&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34; style=&#34;text-align:left;&#34;&gt;
+      &lt;h3 class=&#34;ai-impact-section-title&#34; style=&#34;font-size:1.3rem;text-align:left;&#34;&gt;Current-state Audit&lt;/h3&gt;
+    &lt;p&gt;After auditing and brainstorming, we discovered the following:&lt;/p&gt;
+    &lt;ol style=&#34;margin-top:1rem;&#34;&gt;
+        &lt;li&gt;&lt;strong&gt;Audits revealed that emails were never reaching the prospects inbox due to stringent email firewall systems at target accounts.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Email validations included catch-all emails that were never seen by the recipient&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;For those emails that did pass the firewall, they were in a holding area with bot opens and bot clicks. The recipient never actually got to see the emais. The email metrics were inaccurate.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Cold calling did not work since the agency did not understand what they were actually selling.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;The agency had no defined plan to fix this problem and continued iterating on the same.&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;section class=&#34;ai-impact-section&#34;&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34; style=&#34;text-align:left;&#34;&gt;
+      &lt;h3 class=&#34;ai-impact-section-title&#34; style=&#34;font-size:1.3rem;text-align:left;&#34;&gt;Our Strategic Solution&lt;/h3&gt;
+    &lt;p&gt;&lt;strong&gt;We proposed the idea to use Pramod&#39;s LinkedIn account coupled with Sales Navigator to drive MQLs through a targeted content strategy program.&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;LinkedIn Sales Navigator was used effectively to find contacts based on the target ICP at accounts that Princeton Blue wanted to target.&lt;/p&gt;
+      &lt;ol style=&#34;margin-top:1rem;&#34;&gt;
+        &lt;li&gt;&lt;strong&gt;Strategic Networking:&lt;/strong&gt; Leveraged Sales Navigator to identify and connect with decision-makers at target companies.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Connection-First Strategy:&lt;/strong&gt; Sent personalized connection requests to build a relevant network.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Value-First Content:&lt;/strong&gt; Developed posts highlighting Princeton Blue&#39;s process automation expertise in pharma/biotech.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Innovative Content Formats:&lt;/strong&gt; Utilized engaging formats like &#34;Shortcasts&#34; (short audio/video casts) to capture attention and drive interaction.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Consistent Cadence:&lt;/strong&gt; Established a regular posting schedule optimized for the LinkedIn algorithm.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Industry-Specific Messaging:&lt;/strong&gt; Crafted content addressing challenges in Clinical, Regulatory, Lab, and Manufacturing processes.&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- Results Section --&gt;
+&lt;section class=&#34;ai-impact-section&#34;&gt;
+  &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;The Transformation: Results After 90 Days&lt;/h2&gt;
+  &lt;div class=&#34;ai-impact-grid ai-impact-grid-3&#34;&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent4)&#34;&gt;32 ➔ 328&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Avg. Daily Impressions&lt;/div&gt;
+      &lt;p&gt;925% increase in visibility.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent2)&#34;&gt;~2 ➔ ~12+&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Engagement Growth&lt;/div&gt;
+      &lt;p&gt;2,386% annual growth rate in daily interactions.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent3)&#34;&gt;15+&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;New Followers on Peak Days&lt;/div&gt;
+      &lt;p&gt;Consistent growth in relevant followers.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34; style=&#34;margin-top:2rem;&#34;&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;5&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent5)&#34;&gt;1,000+&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Impressions on multiple days&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;6&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent6)&#34;&gt;20+&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Interactions on peak days&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;7&#34; style=&#34;grid-column: span 2;&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent2)&#34;&gt;15 Leads&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Generated in 6 months from target accounts&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent2);font-size:2rem;&#34;&gt;$15M&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Potential Customer Lifetime Value (CLV)&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- Audience Section --&gt;
+&lt;section class=&#34;ai-impact-section&#34;&gt;
+  &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Connecting with the Right Audience&lt;/h2&gt;
+  &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34;&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent4)&#34;&gt;74%&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;Senior leaders in new audience&lt;/div&gt;
+      &lt;p&gt;Audience profile: Founders, CEOs, CTOs, Solutions Architects.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent3)&#34;&gt;37%&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;From companies with 10,000+ employees&lt;/div&gt;
+      &lt;p&gt;Enterprise focus: Employees from target organizations like J&amp;J and Eli Lilly.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent2)&#34;&gt;Top Hubs&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;NYC, DC, Philly, Boston, SF Bay&lt;/div&gt;
+      &lt;p&gt;Connections in major pharma/biotech regions.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34;&gt;
+      &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent1)&#34;&gt;Key Companies&lt;/div&gt;
+      &lt;div class=&#34;ai-impact-stat-label&#34;&gt;J&amp;J, Eli Lilly, and more&lt;/div&gt;
+      &lt;p&gt;Engagement with employees from target organizations.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;5&#34; style=&#34;grid-column: span 2;&#34;&gt;
+      &lt;h3 class=&#34;ai-impact-section-title&#34; style=&#34;font-size:1.3rem;text-align:left;&#34;&gt;Audience Profile Highlights:&lt;/h3&gt;
+      &lt;ul style=&#34;margin-top:1rem;&#34;&gt;
+        &lt;li&gt;&lt;strong&gt;Top Job Titles:&lt;/strong&gt; Founders, CEOs, CTOs, Solutions Architects.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Key Companies Engaged:&lt;/strong&gt; Employees from target organizations like J&amp;J and Eli Lilly.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- Takeaway &amp; CTA Section --&gt;
+&lt;section class=&#34;ai-impact-section&#34;&gt;
+  &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Key Takeaway for Busy Founders&lt;/h2&gt;
+  &lt;p style=&#34;max-width:700px;margin:0 auto 2rem auto;&#34;&gt;
+    This case study demonstrates that B2B lead generation requires out-of-the-box thinking in applying the right channel to target the right prospects. Strategic connections, targeted value-first content, and innovative formats like Shortcasts are paramount, leading to tangible business outcomes like lead generation - possible easily via LinkedIn - the solution of choice for this challenge.
+  &lt;/p&gt;
+  &lt;p style=&#34;max-width:700px;margin:0 auto 2rem auto;&#34;&gt;
+    The Sales Navigator connection strategy was particularly effective: as target executives accepted connection requests, they began seeing Princeton Blue&#39;s content in their feeds, creating regular exposure without demanding constant outreach.
+  &lt;/p&gt;
+  &lt;p style=&#34;max-width:700px;margin:0 auto 2rem auto;&#34;&gt;
+    Pramod now enjoys consistent LinkedIn growth with minimal time investment, positioning Princeton Blue as a thought leader in process automation for pharma/biotech and creating a valuable channel for business development with enterprise clients, evidenced by significant lead generation and CLV.
+  &lt;/p&gt;
+&lt;/section&gt;
+&lt;/main&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Princeton Blue Revitalizes Email Marketing</title>
+      <link>http://localhost:1313/case-studies/email-marketing-growth-princeton-blue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/case-studies/email-marketing-growth-princeton-blue/</guid>
+      <description>
+        
+        
+        &lt;div align=&#34;center&#34;&gt;
+    &lt;iframe src=&#34;https://gamma.app/embed/bndhj8kkggbhrfj&#34; style=&#34;width: 80rem; max-width: 100%; height: 450rem; display: block; margin: 0 auto;&#34; allow=&#34;fullscreen&#34; title=&#34;Princeton Blue Revitalizes Email Marketing&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The IT Marketer&#39;s Email Swipe File</title>
+      <link>http://localhost:1313/resources/email-swipe-file-landing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/email-swipe-file-landing/</guid>
+      <description>
+        
+        
+        &lt;!-- LEFT COLUMN --&gt;
+&lt;div class=&#34;hx:mt-4&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/resources/email-swipe-file-solo.webp&#34; alt=&#34;Email Swipe File&#34; style=&#34;width: 30%;&#34; /&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 1rem; margin-top: 1rem;&#34;&gt;
+    &lt;span style=&#34;font-size: 1.25rem; font-weight: 600; color:rgb(144, 149, 150);&#34;&gt;
+        Fill the form to access your free resource
+    &lt;/span&gt;
+    &lt;svg width=&#34;70&#34; height=&#34;40&#34; viewBox=&#34;0 0 70 40&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; style=&#34;vertical-align: middle;&#34;&gt;
+        &lt;path d=&#34;M2 10 Q25 35 68 20&#34; stroke=&#34;#118AB2&#34; stroke-width=&#34;3&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+        &lt;path d=&#34;M60 18 L68 20 L62 26&#34; stroke=&#34;#118AB2&#34; stroke-width=&#34;3&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;&lt;/svg&gt;
+&lt;/div&gt;
+&lt;h1
+  class=&#34;not-prose hx:text-4xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-5xl hx:py-2 hx:bg-clip-text hx:text-transparent hx:bg-gradient-to-r hx:from-gray-900 hx:to-gray-600 hx:dark:from-gray-100 hx:dark:to-gray-400&#34;
+  
+&gt;
+  &lt;span style=&#34;background: linear-gradient(90deg, #118AB2 0%, #06D6A0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent;&#34;&gt;
+    The IT Marketer&#39;s Email Swipe File
+&lt;/span&gt;
+
+&lt;/h1&gt;
+
+&lt;p
+  class=&#34;not-prose hx:text-xl hx:text-gray-600 hx:dark:text-gray-400 hx:sm:text-xl&#34;
+  
+&gt;
+  A collection of constantly updating email templates designed for&lt;br class=&#34;hx:sm:block hx:hidden&#34; /&gt;  IT founders, marketers and business development professionals.
+&lt;/p&gt;
+
+&lt;div class=&#34;hx:mt-2 hx:mb-12&#34;&gt;  
+&lt;p&gt;This email swipe file contains 35 awesome email templates in the following categories:&lt;/p&gt;&lt;br/&gt;
+&lt;ul&gt;
+    &lt;li&gt;→ Cold outreach&lt;/li&gt;
+    &lt;li&gt;→ Nurture Emails&lt;/li&gt;
+    &lt;li&gt;→ Announcement Emails&lt;/li&gt;
+    &lt;li&gt;→ Invitation Emails&lt;/li&gt;
+    &lt;li&gt;→ Sales Follow-ups&lt;/li&gt;
+    &lt;li&gt;→ Onboarding emails&lt;/li&gt;
+    &lt;li&gt;→ Re-Engagement Emails&lt;/li&gt;
+    &lt;li&gt;→ Partnership and Collaboration Emails&lt;/li&gt;
+    &lt;li&gt;→ Referral Requests&lt;/li&gt;
+    &lt;li&gt;→ Feedback and Survey&lt;/li&gt;
+    &lt;li&gt;→ Upselling and Cross-selling&lt;/li&gt;
+    &lt;li&gt;→ Internal Team Communications&lt;/li&gt;
+    &lt;li&gt;→ Crisis communications (hopefully you’ll never need this!)&lt;/li&gt;
+&lt;/ul&gt;&lt;br/&gt;
+&lt;p&gt;As I find emails that are great, I will keep adding them to this file so the collection only keeps growing.&lt;/p&gt;&lt;br/&gt;    
+&lt;h2&gt;&lt;strong&gt;Who is this for?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The examples inside are designed for Founders/ Leaders, Marketers, and Business Development professionals in the IT industry. Although, others can use it too.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;strong&gt;How to use this file?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Detailed documentation is inside the file in the “How to use this swap file”&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- RIGHT COLUMN --&gt;
+&lt;form action=&#34;https://api.web3forms.com/submit&#34; method=&#34;POST&#34; id=&#34;form&#34; class=&#34;hx:max-w-lg hx:mx-auto hx:my-10 hx:bg-gray-900 hx:p-8 hx:rounded-lg hx:shadow-md hx:border hx:border-gray-700&#34; style=&#34;background:linear-gradient(135deg,#073B4C 0%,#118AB2 100%);border-radius:0.5rem;padding:2rem;&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;access_key&#34; value=&#34;a7dc54bb-c1e6-4bdb-af33-1efc6fa30909&#34; required /&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;subject&#34; value=&#34;Email Swipe File&#34; required /&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;botcheck&#34; style=&#34;display:none;&#34; /&gt;
+    &lt;div class=&#34;hx:space-y-6&#34;&gt;
+        &lt;div&gt;
+            &lt;label for=&#34;full_name&#34; class=&#34;hx:block hx:mb-2 hx:text-sm hx:text-gray-300&#34;&gt;Full Name&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;full_name&#34; id=&#34;full_name&#34; placeholder=&#34;John Doe&#34; required class=&#34;hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none&#34; /&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;label for=&#34;email_address&#34; class=&#34;hx:block hx:mb-2 hx:mt-4 hx:text-sm hx:text-gray-300&#34;&gt;Email Address&lt;/label&gt;
+            &lt;input type=&#34;email&#34; name=&#34;email_address&#34; id=&#34;email_address&#34; placeholder=&#34;you@company.com&#34; required class=&#34;hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none&#34; /&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;label for=&#34;company_name&#34; class=&#34;hx:block hx:mb-2 hx:mt-4 hx:text-sm hx:text-gray-300&#34;&gt;Company Name&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;company_name&#34; id=&#34;company_name&#34; placeholder=&#34;Acme Corp&#34; required class=&#34;hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none&#34; /&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;label for=&#34;job_title&#34; class=&#34;hx:block hx:mb-2 hx:mt-4 hx:text-sm hx:text-gray-300&#34;&gt;Job Title&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;job_title&#34; id=&#34;job_title&#34; placeholder=&#34;Marketing Manager&#34; required class=&#34;hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none&#34; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;hx:mt-4&#34;&gt;
+            &lt;label class=&#34;hx:flex hx:items-center hx:text-sm hx:text-gray-300&#34;&gt;
+                &lt;input type=&#34;checkbox&#34; name=&#34;consent&#34; required checked class=&#34;hx:mr-2&#34; /&gt;
+                I consent to receive emails from Get Strategiq.
+            &lt;/label&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;hx:mt-4&#34;&gt;
+            &lt;div class=&#34;g-recaptcha&#34; data-sitekey=&#34;6LdYnEYrAAAAAIld6zPLJp2RhBIrT9eaIYqF6d8C&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;button type=&#34;submit&#34; class=&#34;hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn&#34;&gt;
+            Access Resource
+        &lt;/button&gt;
+        &lt;input type=&#34;hidden&#34; name=&#34;redirect&#34; value=&#34;https://docs.google.com/document/d/1tWwo-HuO4c-Vv5lLxheTdbushPk5IbMIlBTy7r7ObNI/edit?usp=sharing&#34; required&gt;
+        &lt;p class=&#34;hx:text-base hx:text-center hx:text-gray-400&#34; id=&#34;result&#34;&gt;&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+&lt;script src=&#34;https://www.google.com/recaptcha/api.js&#34; async defer&gt;&lt;/script&gt;
+&lt;style&gt;
+    .access-resource-btn:hover, .access-resource-btn:focus {
+        box-shadow:0 0 0 3px #06D6A0,0 0 12px 4px #118AB2;
+        border-color:#06D6A0!important;
+        transition:box-shadow 0.2s,border-color 0.2s;
+    }
+&lt;/style&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
