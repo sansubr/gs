@@ -188,7 +188,9 @@
     <input type="hidden" name="access_key" value="a7dc54bb-c1e6-4bdb-af33-1efc6fa30909" required />
     <input type="hidden" name="subject" value="Email Swipe File" required />
     <input type="checkbox" name="botcheck" style="display:none;" />
+    
     <div class="hx:space-y-6">
+        
         <div>
             <label for="full_name" class="hx:block hx:mb-2 hx:text-sm hx:text-gray-300">Full Name</label>
             <input type="text" name="full_name" id="full_name" placeholder="John Doe" required class="hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none" />
@@ -211,19 +213,15 @@
                 I consent to receive emails from Get Strategiq.
             </label>
         </div>
-        <button type="submit" class="g-recaptcha hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn" data-sitekey="6LdYnEYrAAAAAIld6zPLJp2RhBIrT9eaIYqF6d8C" data-callback='onSubmit' data-action='submit'>
+        <div class="hx:mt-4 h-captcha" data-sitekey="30164238-a2ae-4cc6-b3a6-65cec5102022"></div>
+        <button type="submit" class="hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn">
             Access Resource
         </button>
         <input type="hidden" name="redirect" value="https://docs.google.com/document/d/1tWwo-HuO4c-Vv5lLxheTdbushPk5IbMIlBTy7r7ObNI/edit?usp=sharing" required>
         <p class="hx:text-base hx:text-center hx:text-gray-400" id="result"></p>
     </div>
 </form>
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<script>
-   function onSubmit(token) {
-     document.getElementById("Email Swipe File").submit();
-   }
- </script>
+
 <style>
     .access-resource-btn:hover, .access-resource-btn:focus {
         box-shadow:0 0 0 3px #06D6A0,0 0 12px 4px #118AB2;
@@ -231,6 +229,12 @@
         transition:box-shadow 0.2s,border-color 0.2s;
     }
 </style>
+
+
+
+<script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+
+
 
 
       

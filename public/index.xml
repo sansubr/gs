@@ -717,17 +717,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
                 I consent to receive emails from Get Strategiq.
             &lt;/label&gt;
         &lt;/div&gt;
-        &lt;div class=&#34;hx:mt-4&#34;&gt;
-            &lt;div class=&#34;g-recaptcha&#34; data-sitekey=&#34;6LdYnEYrAAAAAIld6zPLJp2RhBIrT9eaIYqF6d8C&#34;&gt;&lt;/div&gt;
-        &lt;/div&gt;
+        &lt;div class=&#34;hx:mt-4 h-captcha&#34; data-sitekey=&#34;30164238-a2ae-4cc6-b3a6-65cec5102022&#34;&gt;&lt;/div&gt;
         &lt;button type=&#34;submit&#34; class=&#34;hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn&#34;&gt;
             Access Resource
         &lt;/button&gt;
-        &lt;input type=&#34;hidden&#34; name=&#34;redirect&#34; value=&#34;https://docs.google.com/document/d/1tWwo-HuO4c-Vv5lLxheTdbushPk5IbMIlBTy7r7ObNI/edit?usp=sharing&#34; required&gt;
+        &lt;input type=&#34;hidden&#34; name=&#34;redirect&#34; value=&#34;/gated/ai-impact-on-search&#34; required&gt;
         &lt;p class=&#34;hx:text-base hx:text-center hx:text-gray-400&#34; id=&#34;result&#34;&gt;&lt;/p&gt;
     &lt;/div&gt;
 &lt;/form&gt;
-&lt;script src=&#34;https://www.google.com/recaptcha/api.js&#34; async defer&gt;&lt;/script&gt;
+&lt;script src=&#34;https://js.hcaptcha.com/1/api.js&#34; async defer&gt;&lt;/script&gt;
 &lt;style&gt;
     .access-resource-btn:hover, .access-resource-btn:focus {
         box-shadow:0 0 0 3px #06D6A0,0 0 12px 4px #118AB2;
@@ -1163,7 +1161,9 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
     &lt;input type=&#34;hidden&#34; name=&#34;access_key&#34; value=&#34;a7dc54bb-c1e6-4bdb-af33-1efc6fa30909&#34; required /&gt;
     &lt;input type=&#34;hidden&#34; name=&#34;subject&#34; value=&#34;Email Swipe File&#34; required /&gt;
     &lt;input type=&#34;checkbox&#34; name=&#34;botcheck&#34; style=&#34;display:none;&#34; /&gt;
+    
     &lt;div class=&#34;hx:space-y-6&#34;&gt;
+        
         &lt;div&gt;
             &lt;label for=&#34;full_name&#34; class=&#34;hx:block hx:mb-2 hx:text-sm hx:text-gray-300&#34;&gt;Full Name&lt;/label&gt;
             &lt;input type=&#34;text&#34; name=&#34;full_name&#34; id=&#34;full_name&#34; placeholder=&#34;John Doe&#34; required class=&#34;hx:w-full hx:px-3 hx:py-2 hx:h-12 hx:rounded-md hx:placeholder-gray-500 hx:text-gray-900 hx:bg-gray-100 hx:text-sm focus:hx:outline-none&#34; /&gt;
@@ -1186,19 +1186,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
                 I consent to receive emails from Get Strategiq.
             &lt;/label&gt;
         &lt;/div&gt;
-        &lt;button type=&#34;submit&#34; class=&#34;g-recaptcha hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn&#34; data-sitekey=&#34;6LdYnEYrAAAAAIld6zPLJp2RhBIrT9eaIYqF6d8C&#34; data-callback=&#39;onSubmit&#39; data-action=&#39;submit&#39;&gt;
+        &lt;div class=&#34;hx:mt-4 h-captcha&#34; data-sitekey=&#34;30164238-a2ae-4cc6-b3a6-65cec5102022&#34;&gt;&lt;/div&gt;
+        &lt;button type=&#34;submit&#34; class=&#34;hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn&#34;&gt;
             Access Resource
         &lt;/button&gt;
         &lt;input type=&#34;hidden&#34; name=&#34;redirect&#34; value=&#34;https://docs.google.com/document/d/1tWwo-HuO4c-Vv5lLxheTdbushPk5IbMIlBTy7r7ObNI/edit?usp=sharing&#34; required&gt;
         &lt;p class=&#34;hx:text-base hx:text-center hx:text-gray-400&#34; id=&#34;result&#34;&gt;&lt;/p&gt;
     &lt;/div&gt;
 &lt;/form&gt;
-&lt;script src=&#34;https://www.google.com/recaptcha/api.js&#34; async defer&gt;&lt;/script&gt;
-&lt;script&gt;
-   function onSubmit(token) {
-     document.getElementById(&#34;Email Swipe File&#34;).submit();
-   }
- &lt;/script&gt;
+
 &lt;style&gt;
     .access-resource-btn:hover, .access-resource-btn:focus {
         box-shadow:0 0 0 3px #06D6A0,0 0 12px 4px #118AB2;
@@ -1206,6 +1202,12 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
         transition:box-shadow 0.2s,border-color 0.2s;
     }
 &lt;/style&gt;
+
+
+
+&lt;script src=&#34;https://js.hcaptcha.com/1/api.js&#34; async defer&gt;&lt;/script&gt;
+
+
 
 
       </description>
