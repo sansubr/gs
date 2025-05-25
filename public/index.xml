@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get Strategiq – Get Strategiq</title>
-    <link>https://getstrategiq.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Get Strategiq</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://getstrategiq.com/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>AI&#39;s impact on Search</title>
-      <link>https://getstrategiq.com/resources/ai-impact-on-search-landing/</link>
+      <link>http://localhost:1313/resources/ai-impact-on-search-landing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://getstrategiq.com/resources/ai-impact-on-search-landing/</guid>
+      <guid>http://localhost:1313/resources/ai-impact-on-search-landing/</guid>
       <description>
         
         
@@ -751,10 +751,10 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
     
     <item>
       <title>Inbound Lead Generation for Princeton Blue</title>
-      <link>https://getstrategiq.com/case-studies/linkedin-growth-pramod-sachdeva/</link>
+      <link>http://localhost:1313/case-studies/linkedin-growth-pramod-sachdeva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://getstrategiq.com/case-studies/linkedin-growth-pramod-sachdeva/</guid>
+      <guid>http://localhost:1313/case-studies/linkedin-growth-pramod-sachdeva/</guid>
       <description>
         
         
@@ -1082,10 +1082,10 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
     
     <item>
       <title>Princeton Blue Revitalizes Email Marketing</title>
-      <link>https://getstrategiq.com/case-studies/email-marketing-growth-princeton-blue/</link>
+      <link>http://localhost:1313/case-studies/email-marketing-growth-princeton-blue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://getstrategiq.com/case-studies/email-marketing-growth-princeton-blue/</guid>
+      <guid>http://localhost:1313/case-studies/email-marketing-growth-princeton-blue/</guid>
       <description>
         
         
@@ -1098,16 +1098,16 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
     
     <item>
       <title>The IT Marketer&#39;s Email Swipe File</title>
-      <link>https://getstrategiq.com/resources/email-swipe-file-landing/</link>
+      <link>http://localhost:1313/resources/email-swipe-file-landing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://getstrategiq.com/resources/email-swipe-file-landing/</guid>
+      <guid>http://localhost:1313/resources/email-swipe-file-landing/</guid>
       <description>
         
         
         &lt;!-- LEFT COLUMN --&gt;
 &lt;div class=&#34;hx:mt-4&#34;&gt;
-&lt;img src=&#34;https://getstrategiq.com/images/resources/email-swipe-file-solo.webp&#34; alt=&#34;Email Swipe File&#34; style=&#34;width: 30%;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/images/resources/email-swipe-file-solo.webp&#34; alt=&#34;Email Swipe File&#34; style=&#34;width: 30%;&#34; /&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: flex; align-items: center; gap: 1rem; margin-top: 1rem;&#34;&gt;
     &lt;span style=&#34;font-size: 1.25rem; font-weight: 600; color:rgb(144, 149, 150);&#34;&gt;
