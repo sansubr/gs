@@ -717,7 +717,6 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
                 I consent to receive emails from Get Strategiq.
             &lt;/label&gt;
         &lt;/div&gt;
-        &lt;div class=&#34;hx:mt-4 h-captcha&#34; data-sitekey=&#34;30164238-a2ae-4cc6-b3a6-65cec5102022&#34;&gt;&lt;/div&gt;
         &lt;button type=&#34;submit&#34; class=&#34;hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn&#34;&gt;
             Access Resource
         &lt;/button&gt;
@@ -725,7 +724,6 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
         &lt;p class=&#34;hx:text-base hx:text-center hx:text-gray-400&#34; id=&#34;result&#34;&gt;&lt;/p&gt;
     &lt;/div&gt;
 &lt;/form&gt;
-&lt;script src=&#34;https://js.hcaptcha.com/1/api.js&#34; async defer&gt;&lt;/script&gt;
 &lt;style&gt;
     .access-resource-btn:hover, .access-resource-btn:focus {
         box-shadow:0 0 0 3px #06D6A0,0 0 12px 4px #118AB2;
@@ -1186,7 +1184,6 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
                 I consent to receive emails from Get Strategiq.
             &lt;/label&gt;
         &lt;/div&gt;
-        &lt;div class=&#34;hx:mt-4 h-captcha&#34; data-sitekey=&#34;30164238-a2ae-4cc6-b3a6-65cec5102022&#34;&gt;&lt;/div&gt;
         &lt;button type=&#34;submit&#34; class=&#34;hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn&#34;&gt;
             Access Resource
         &lt;/button&gt;
@@ -1203,9 +1200,6 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
     }
 &lt;/style&gt;
 
-
-
-&lt;script src=&#34;https://js.hcaptcha.com/1/api.js&#34; async defer&gt;&lt;/script&gt;
 
 
 
