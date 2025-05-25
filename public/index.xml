@@ -717,6 +717,8 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
                 I consent to receive emails from Get Strategiq.
             &lt;/label&gt;
         &lt;/div&gt;
+        
+        &lt;div class=&#34;hx:mt-4 h-captcha&#34; data-captcha=&#34;true&#34; data-sitekey=&#34;50b2fe65-b00b-4b9e-ad62-3ba471098be2&#34;&gt;&lt;/div&gt;
         &lt;button type=&#34;submit&#34; class=&#34;hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn&#34;&gt;
             Access Resource
         &lt;/button&gt;
@@ -732,6 +734,8 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
     }
 &lt;/style&gt;
 
+
+&lt;script src=&#34;https://web3forms.com/client/script.js&#34; async defer&gt;&lt;/script&gt;
 
       
     &lt;/div&gt;
@@ -1184,6 +1188,8 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
                 I consent to receive emails from Get Strategiq.
             &lt;/label&gt;
         &lt;/div&gt;
+        
+        &lt;div class=&#34;hx:mt-4 h-captcha&#34; data-captcha=&#34;true&#34; data-sitekey=&#34;50b2fe65-b00b-4b9e-ad62-3ba471098be2&#34;&gt;&lt;/div&gt;   
         &lt;button type=&#34;submit&#34; class=&#34;hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn&#34;&gt;
             Access Resource
         &lt;/button&gt;
@@ -1201,6 +1207,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
 &lt;/style&gt;
 
 
+&lt;script src=&#34;https://web3forms.com/client/script.js&#34; async defer&gt;&lt;/script&gt;
 
 
 
