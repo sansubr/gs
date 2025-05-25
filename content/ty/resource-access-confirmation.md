@@ -2,6 +2,8 @@
 title: Thank you for your interest
 layout: resource
 hideTitle: true
+sidebar:
+  exclude: true
 ---
 
 <div class="hx:mt-12">

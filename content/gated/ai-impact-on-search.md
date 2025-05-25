@@ -3,6 +3,8 @@ title: AI Impact on Search
 layout: article
 description: A detailed infographic for leaders describing AI's impact on search, and how to optimize for more AI visibility in 2025 and beyond.
 excludeSearch: true
+sidebar:
+  exclude: true
 ---
 
 # Mastering Visibility in the Age of AI-Driven Search

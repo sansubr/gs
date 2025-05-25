@@ -43,6 +43,12 @@ menu:
       weight: 9
       params:
         type: search
+  sidebar:
+    - identifier: newsletter
+      name: Newsletter
+      url: "https://blog.getstrategiq.com"
+      weight: 1
+    
 
 
 
