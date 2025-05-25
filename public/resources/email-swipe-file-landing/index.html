@@ -210,10 +210,7 @@
                 I consent to receive emails from Get Strategiq.
             </label>
         </div>
-        <div class="hx:mt-4">
-            <div class="g-recaptcha" data-sitekey="6LdYnEYrAAAAAIld6zPLJp2RhBIrT9eaIYqF6d8C"></div>
-        </div>
-        <button type="submit" class="hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn">
+        <button type="submit" class="g-recaptcha hx:w-full hx:bg-gradient-to-r hx:from-[#118AB2] hx:to-[#06D6A0] hx:text-white hx:font-semibold hx:py-3 hx:px-4 hx:rounded-md hx:border hx:border-[#073B4C] focus:hx:outline-none transition-colors duration-200 hx:mt-6 access-resource-btn" data-sitekey="6LdYnEYrAAAAAIld6zPLJp2RhBIrT9eaIYqF6d8C" data-callback='onSubmit' data-action='submit'>
             Access Resource
         </button>
         <input type="hidden" name="redirect" value="https://docs.google.com/document/d/1tWwo-HuO4c-Vv5lLxheTdbushPk5IbMIlBTy7r7ObNI/edit?usp=sharing" required>
@@ -221,6 +218,11 @@
     </div>
 </form>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+   function onSubmit(token) {
+     document.getElementById("Email Swipe File").submit();
+   }
+ </script>
 <style>
     .access-resource-btn:hover, .access-resource-btn:focus {
         box-shadow:0 0 0 3px #06D6A0,0 0 12px 4px #118AB2;
