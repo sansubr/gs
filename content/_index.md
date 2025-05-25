@@ -233,7 +233,7 @@ layout: hextra-home
 {{< cards cols="2" >}}
   {{< card
     tag="RESOURCE"
-    link="/resources/email-swipe-file/"
+    link="/resources/email-swipe-file-landing/"
     title="The IT Marketer's Email Swipe File"
     subtitle="A collection of constantly updating templates file designed for IT founders, marketers and business development professionals."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
