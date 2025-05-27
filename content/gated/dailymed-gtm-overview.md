@@ -3,6 +3,9 @@ title: DailyMed - Go-To-Market Strategy Overview
 layout: resource
 hideTitle: true
 description: A strategic infographic and GTM plan for DailyMed's Hyderabad launch and pan-India expansion.
+excludeSearch: true
+sidebar:
+  exclude: true
 ---
 
 <style>
