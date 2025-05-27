@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get Strategiq – Gated content</title>
-    <link>http://localhost:1313/gated/</link>
+    <link>https://getstrategiq.com/gated/</link>
     <description>Recent content in Gated content on Get Strategiq</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/gated/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://getstrategiq.com/gated/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>AI Impact on Search</title>
-      <link>http://localhost:1313/gated/ai-impact-on-search/</link>
+      <link>https://getstrategiq.com/gated/ai-impact-on-search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gated/ai-impact-on-search/</guid>
+      <guid>https://getstrategiq.com/gated/ai-impact-on-search/</guid>
       <description>
         
         
@@ -166,6 +166,523 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;By embracing these strategies, businesses can secure visibility and leadership in the evolving world of AI-driven search.&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>DailyMed - Go-To-Market Strategy Overview</title>
+      <link>https://getstrategiq.com/gated/dailymed-gtm-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://getstrategiq.com/gated/dailymed-gtm-overview/</guid>
+      <description>
+        
+        
+        &lt;style&gt;
+:root {
+    --bg: #0d1b2a;
+    --fg: #f1faee;
+    --accent1: #118AB2;
+    --accent2: #06D6A0;
+    --accent3: #FFD166;
+    --accent4: #FF6B6B;
+    --accent5: #8A4FFF;
+    --accent6: #F582AE;
+    --accent7: #073B4C;
+    --card-bg: #11203a;
+    --card-border: #118AB2;
+    --muted: #a8dadc;
+}
+.ai-impact-root {
+    /* font-family: &#39;Inter&#39;, sans-serif; */ /* Inherit font from theme */
+    color: var(--fg);
+    margin: 0;
+    padding: 0;
+}
+.ai-impact-section {
+    margin: 4.5rem auto;
+    max-width: 1100px;
+    padding: 0 1rem;
+}
+.ai-impact-header {
+    text-align: center;
+    padding: 2.5rem 0 1rem 0;
+    margin: 2.5rem auto;
+    color: var(--fg);
+    background: none;
+    box-shadow: none;
+}
+.ai-impact-header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--accent1);
+}
+.ai-impact-header p {
+    font-size: 1.25rem;
+    color: var(--muted);
+}
+.ai-impact-section-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--accent2);
+    text-align: center;
+}
+.ai-impact-grid {
+    display: grid;
+    gap: 1.5rem;
+}
+@media (min-width: 768px) {
+    .ai-impact-grid-2 { grid-template-columns: repeat(2, 1fr); }
+    .ai-impact-grid-3 { grid-template-columns: repeat(3, 1fr); }
+}
+.ai-impact-card {
+    background: var(--card-bg);
+    border-radius: 0.75rem;
+    border: 2px solid var(--card-border);
+    box-shadow: 0 4px 24px 0 rgba(17,138,178,0.18);
+    padding: 1.5rem;
+    text-align: left;
+}
+.ai-impact-card[data-accent=&#34;1&#34;] { border-color: var(--accent1); }
+.ai-impact-card[data-accent=&#34;2&#34;] { border-color: var(--accent2); }
+.ai-impact-card[data-accent=&#34;3&#34;] { border-color: var(--accent3); }
+.ai-impact-card[data-accent=&#34;4&#34;] { border-color: var(--accent4); }
+.ai-impact-card[data-accent=&#34;5&#34;] { border-color: var(--accent5); }
+.ai-impact-card[data-accent=&#34;6&#34;] { border-color: var(--accent6); }
+.ai-impact-card[data-accent=&#34;7&#34;] { border-color: var(--accent7); }
+.ai-impact-stat-number {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.ai-impact-stat-label {
+    font-size: 0.95rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+}
+.ai-impact-card p {
+    font-size: 0.95rem;
+    color: #bfc9d1;
+    margin-top: 0.5rem;
+}
+.ai-impact-footer {
+    text-align: center;
+    padding: 2rem 0 1rem 0;
+    color: var(--muted);
+    background: none;
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+.ai-impact-divider {
+    border-top: 0.1px solid var(--muted);
+    margin: 0.5rem 0;
+}
+.ai-impact-divider-gold {
+    border-top: 0.1px solid #FFD700;
+    margin: 0.5rem 0;
+}
+.ai-impact-card-gold {
+    border: 2.5px solid #FFD700 !important;
+    box-shadow: 0 0 24px 0 #FFD70066;
+    background: var(--card-bg) !important;
+}
+.gsq-btn-primary {
+    display: inline-block;
+    background: transparent;
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.15rem;
+    padding: 1.1rem 2.75rem;
+    border-radius: 0.85rem;
+    box-shadow: none;
+    text-decoration: none;
+    transition: background 0.2s, border 0.2s;
+    background-clip: padding-box;
+    border: 2px solid var(--accent1);
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+&lt;/style&gt;
+&lt;div class=&#34;ai-impact-root&#34;&gt;
+  &lt;main&gt;
+    &lt;div class=&#34;ai-impact-header&#34;&gt;
+      &lt;h1&gt;
+        &lt;span style=&#34;background: linear-gradient(90deg, #118AB2 0%, #06D6A0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent;&#34;&gt;
+          DailyMed: A GTM Strategy Overview
+        &lt;/span&gt;
+      &lt;/h1&gt;
+      &lt;p&gt;
+        A high-level picture of the market and strategy for DailyMed&#39;s Diagnostic Sevices Hyderabad launch and pan-India expansion.
+      &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;!-- Market Overview --&gt;
+    &lt;section class=&#34;ai-impact-section&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;The Indian Diagnostic Market: Growth Landscape&lt;/h2&gt;
+      &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34;&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34; style=&#34;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;&#34;&gt;
+            &lt;div class=&#34;ai-impact-stat-number&#34; style=&#34;color:var(--accent4)&#34;&gt;₹1,47,000 Cr&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-stat-label&#34;&gt;2024 Market Size (INR)&lt;/div&gt;
+            &lt;p style=&#34;margin-top:0.75rem;&#34;&gt;Projected to reach &lt;strong&gt;₹3,60,000 Cr&lt;/strong&gt; by 2033 (CAGR: 9.7%–11.7%).&lt;br&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34;&gt;
+            &lt;h3 style=&#34;color:var(--accent2);font-size:1.1rem;&#34;&gt;Key Growth Drivers&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Rising healthcare awareness&lt;/li&gt;
+                &lt;li&gt;Chronic disease prevalence&lt;/li&gt;
+                &lt;li&gt;Demand for home collection &amp; digital&lt;/li&gt;
+                &lt;li&gt;Tech advancements (AI, cloud, digital health)&lt;/li&gt;
+                &lt;li&gt;Demographic &amp; economic shifts&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;    &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- Naming Challenge --&gt;
+    &lt;section class=&#34;ai-impact-section&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Critical: The &#34;DailyMed&#34; Name&lt;/h2&gt;
+      &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34;&gt;
+        &lt;p&gt;
+          Avoid confusion with the US National Library of Medicine&#39;s &#34;DailyMed&#34; database.
+          &lt;strong&gt;Legal consultation and brand differentiation (e.g., &#34;DailyMed Labs&#34;) is essential before major marketing investments.&lt;/strong&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- Audience --&gt;
+    &lt;section class=&#34;ai-impact-section&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Target Audience &amp; Segments&lt;/h2&gt;
+      &lt;div class=&#34;ai-impact-grid ai-impact-grid-3&#34;&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent1);font-size:1.1rem;&#34;&gt;Demographics&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;All ages (youth to elderly)&lt;/li&gt;
+            &lt;li&gt;Urban professionals&lt;/li&gt;
+            &lt;li&gt;Educated, health-aware&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;5&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent6);font-size:1.1rem;&#34;&gt;Psychographics&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Health-conscious, proactive&lt;/li&gt;
+            &lt;li&gt;Tech-savvy, digital-first&lt;/li&gt;
+            &lt;li&gt;Convenience &amp; value seekers&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;6&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent5);font-size:1.1rem;&#34;&gt;Needs-Based&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Chronic condition management&lt;/li&gt;
+            &lt;li&gt;Preventive health checkups&lt;/li&gt;
+            &lt;li&gt;Busy professionals, families&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34; style=&#34;margin-top:2rem;&#34;&gt;
+        &lt;strong&gt;Hyderabad Insight:&lt;/strong&gt; Large IT professional base = high digital adoption potential.
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- Competition --&gt;
+    &lt;section class=&#34;ai-impact-section&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Competitive Landscape&lt;/h2&gt;
+      &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34;&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;7&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent3);font-size:1.1rem;&#34;&gt;Hyderabad Key Players&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Vijaya Diagnostic Centre&lt;/li&gt;
+            &lt;li&gt;Aarthi Scans &amp; Labs&lt;/li&gt;
+            &lt;li&gt;Apollo Diagnostics&lt;/li&gt;
+            &lt;li&gt;Lucid Medical Diagnostics&lt;/li&gt;
+            &lt;li&gt;Ampath Labs&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent4);font-size:1.1rem;&#34;&gt;Pan-India Majors&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Dr. Lal PathLabs&lt;/li&gt;
+            &lt;li&gt;Metropolis Healthcare&lt;/li&gt;
+            &lt;li&gt;SRL Diagnostics&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34; style=&#34;margin-top:2rem;&#34;&gt;
+        &lt;strong&gt;Key:&lt;/strong&gt; Home collection &amp; digital reports are now standard. &lt;br&gt;Execution and trust are differentiators.
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- Service &amp; Pricing --&gt;
+    &lt;section class=&#34;ai-impact-section&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Service Offering &amp; Pricing&lt;/h2&gt;
+      &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34;&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent2);font-size:1.1rem;&#34;&gt;Core Services&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;CBC, Blood Sugar, Lipid, LFT, KFT&lt;/li&gt;
+            &lt;li&gt;Thyroid, Vitamin D/B12, CRP&lt;/li&gt;
+            &lt;li&gt;Small, focused bundles&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;5&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent6);font-size:1.1rem;&#34;&gt;Pricing Philosophy&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Target avg. ticket: &lt;strong&gt;Rs. 500&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Competitive pricing, transparent fees&lt;/li&gt;
+            &lt;li&gt;Intro offers to drive adoption&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34; style=&#34;margin-top:2rem;&#34;&gt;
+        &lt;strong&gt;Example:&lt;/strong&gt; FBS + CBC + TSH for ~Rs. 500 (no hidden home collection charges in service area)
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- Hyderabad Launch Strategy --&gt;
+    &lt;section class=&#34;ai-impact-section&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Hyderabad Launch: Lean &amp; Hyperlocal&lt;/h2&gt;
+      &lt;div class=&#34;ai-impact-grid ai-impact-grid-3&#34;&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent4);font-size:1.1rem;&#34;&gt;Hyperlocal Digital&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Local SEO, Google My Business&lt;/li&gt;
+            &lt;li&gt;Targeted social ads&lt;/li&gt;
+            &lt;li&gt;WhatsApp marketing&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent2);font-size:1.1rem;&#34;&gt;Value-Driven Content&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Health blogs (Hyderabad focus)&lt;/li&gt;
+            &lt;li&gt;Engaging social media&lt;/li&gt;
+            &lt;li&gt;Testimonials, local stories&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent3);font-size:1.1rem;&#34;&gt;Offline &amp; Community&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Doctor &amp; pharmacy partnerships&lt;/li&gt;
+            &lt;li&gt;Residential camps, SME tie-ups&lt;/li&gt;
+            &lt;li&gt;Referral programs&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;7&#34; style=&#34;margin-top:2rem;&#34;&gt;
+        &lt;strong&gt;Success Factor:&lt;/strong&gt; Leverage DailyMed Pharmacy network &amp; local doctor ties for cost-effective acquisition.
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- Expansion Plan --&gt;
+    &lt;section class=&#34;ai-impact-section&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Blueprint for Pan-India Expansion&lt;/h2&gt;
+      &lt;div class=&#34;ai-impact-grid ai-impact-grid-3&#34;&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent1);font-size:1.1rem;&#34;&gt;Phase 1 (Years 1-2)&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Consolidate Hyderabad&lt;/li&gt;
+            &lt;li&gt;Refine service model&lt;/li&gt;
+            &lt;li&gt;Achieve efficiency &amp; profitability&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;5&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent6);font-size:1.1rem;&#34;&gt;Phase 2 (Years 2-3)&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Expand to South India Tier 1 &amp; 2&lt;/li&gt;
+            &lt;li&gt;Bangalore, Chennai, Pune, Vizag, Kochi&lt;/li&gt;
+            &lt;li&gt;Strong regional presence&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;6&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent5);font-size:1.1rem;&#34;&gt;Phase 3: Coming soon&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Enter Delhi NCR, Mumbai, Kolkata, Ahmedabad&lt;/li&gt;
+            &lt;li&gt;&#34;Hub-and-spoke&#34; model with regional labs&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34; style=&#34;margin-top:2rem;&#34;&gt;
+        &lt;strong&gt;Strategic Focus:&lt;/strong&gt; Tier 2/3 cities = higher growth (25% CAGR) vs metros (10%).
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- Tech &amp; Branding --&gt;
+    &lt;section class=&#34;ai-impact-section&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Enabling Growth: Tech &amp; Branding&lt;/h2&gt;
+      &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34;&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent4);font-size:1.1rem;&#34;&gt;MarTech Stack&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;CRM (LeadSquared or similar)&lt;/li&gt;
+            &lt;li&gt;Analytics (Google Analytics)&lt;/li&gt;
+            &lt;li&gt;Marketing automation (email/SMS)&lt;/li&gt;
+            &lt;li&gt;WhatsApp Business API&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34;&gt;
+          &lt;h3 style=&#34;color:var(--accent3);font-size:1.1rem;&#34;&gt;Brand Ambassadors&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Hyderabad: Micro/mid-tier influencers, local doctors&lt;/li&gt;
+            &lt;li&gt;Pan-India: Regional celebrities as budget allows&lt;/li&gt;
+            &lt;li&gt;Authenticity &amp; health alignment are key&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- Strategic Pillars --&gt;
+    &lt;section class=&#34;ai-impact-section&#34;&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34;&gt;Key Strategic Pillars for Success&lt;/h2&gt;
+      &lt;div class=&#34;ai-impact-grid ai-impact-grid-3&#34;&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34;&gt;&lt;strong&gt;Resolve Naming Issue&lt;/strong&gt;&lt;br&gt;Legal counsel &amp; branding.&lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34;&gt;&lt;strong&gt;Service Excellence&lt;/strong&gt;&lt;br&gt;Quality, TAT, digital UX.&lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34;&gt;&lt;strong&gt;Lean Hyperlocal Marketing&lt;/strong&gt;&lt;br&gt;SEO, GMB, partnerships.&lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34;&gt;&lt;strong&gt;Value-Driven Offerings&lt;/strong&gt;&lt;br&gt;Affordable, transparent packages.&lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;5&#34;&gt;&lt;strong&gt;Scalable MarTech&lt;/strong&gt;&lt;br&gt;CRM, Analytics, WhatsApp API.&lt;/div&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;6&#34;&gt;&lt;strong&gt;Phased Expansion&lt;/strong&gt;&lt;br&gt;South India, then Tier 2/3 cities.&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- Partnership Proposal Section --&gt;
+    &lt;section class=&#34;ai-impact-section&#34; style=&#34;margin-top:4.5rem;&#34;&gt;
+      &lt;div class=&#34;ai-impact-header&#34;&gt;
+        &lt;h1&gt;
+          &lt;span style=&#34;background: linear-gradient(90deg, #FF6B6B 0%, #FFD166 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent;&#34;&gt;
+            Partnering for DailyMed&#39;s Success
+          &lt;/span&gt;
+        &lt;/h1&gt;
+        &lt;p style=&#34;color:var(--fg);margin-top:1rem;&#34;&gt;
+          A Strategic Engagement Proposal by getstrategiq.com to Launch and Scale DailyMed&#39;s Diagnostic Services.
+        &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;!-- Phase 1 --&gt;
+      &lt;section id=&#34;phase1&#34; class=&#34;ai-impact-section&#34; style=&#34;margin-top:0;&#34;&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34;&gt;
+          &lt;h2 class=&#34;ai-impact-section-title&#34; style=&#34;color:var(--accent4);&#34;&gt;Phase 1: GTM Strategy &amp; Launch Preparation&lt;/h2&gt;
+          &lt;p style=&#34;color:var(--muted);margin-bottom:1.5rem;&#34;&gt;
+            Laying a robust foundation for DailyMed&#39;s market entry and establishing a clear strategic direction for the critical Hyderabad launch.
+          &lt;/p&gt;
+          &lt;ul style=&#34;margin-bottom:1.5rem;&#34;&gt;
+            &lt;li&gt;&lt;b&gt;Timeline:&lt;/b&gt; 3 Months&lt;/li&gt;
+            &lt;li&gt;→ Develop comprehensive GTM strategy and address &#34;DailyMed&#34; naming.&lt;/li&gt;
+            &lt;li&gt;→ Finalize service offerings, pricing models, and brand positioning.&lt;/li&gt;
+            &lt;li&gt;→ Create detailed marketing and operational plans for Hyderabad.&lt;/li&gt;
+            &lt;li&gt;→ Consult on MarTech stack and support initial digital asset setup.&lt;/li&gt;
+            &lt;li&gt;→ Provide expert Website/App UI/UX feedback and content.&lt;/li&gt;
+            &lt;li&gt;→ Launch the website and the customer-facing digital stack to start accepting leads and manage operations.&lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;p&gt;*Subscriptions to tools, software and applicable setup fees are not included in this estimate.&lt;/p&gt;
+          &lt;div style=&#34;text-align:center;margin-top:1.5rem;&#34;&gt;
+            &lt;span style=&#34;background:var(--accent1);color:var(--card-bg);font-weight:700;padding:0.5rem 1.5rem;border-radius:0.5rem;&#34;&gt;
+              INR 2,75,000 one time fee &lt;span style=&#34;font-size:1rem;font-weight:400;color:var(--muted);&#34;&gt;+ GST&lt;/span&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/section&gt;
+      &lt;div style=&#34;text-align:center;margin:2.5rem 0;&#34;&gt;
+        &lt;span style=&#34;font-size:2.5rem;color:var(--accent4);&#34;&gt;⬇️&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;!-- Phase 2 --&gt;
+      &lt;div class=&#34;ai-impact-section&#34; style=&#34;margin-top:0;&#34;&gt;
+        &lt;h2 class=&#34;ai-impact-section-title&#34; style=&#34;color:var(--accent2);&#34;&gt;Phase 2: Choose Your Growth Tier&lt;/h2&gt;
+        &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34; style=&#34;align-items:stretch;&#34;&gt;
+        &lt;!-- Tier 1 Card --&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34; style=&#34;display:flex;flex-direction:column;gap:0;&#34;&gt;
+            &lt;h3 style=&#34;color:var(--accent2);font-size:1.25rem;font-weight:700;margin-bottom:0.5rem;&#34;&gt;Tier 1: Growth Starter&lt;/h3&gt;
+            &lt;p style=&#34;color:var(--muted);margin-bottom:1rem;&#34;&gt;
+                Ideal for establishing a strong digital foundation and generating consistent, initial lead flow.
+            &lt;/p&gt;
+            &lt;div style=&#34;font-weight:700;color:var(--accent1);margin-bottom:1rem;&#34;&gt;
+                INR 90,000 &lt;span style=&#34;font-size:1rem;font-weight:400;color:var(--muted);&#34;&gt;+ GST (Monthly Retainer, min 6-months.)&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;p style=&#34;color:var(--muted);margin-bottom:1rem;&#34;&gt;Services Included:&lt;/p&gt;
+            &lt;div&gt;&lt;strong&gt;Dedicated Account Management:&lt;/strong&gt; Primary point of contact and monthly strategic reviews.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;SEO Management:&lt;/strong&gt; On-page optimization, technical monitoring, local citation management.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;Google My Business (GMB) Management:&lt;/strong&gt; Setup, Regular posts, Q&amp;amp;A, and review management.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;Content Creation:&lt;/strong&gt; 2 SEO-optimized blog posts per month.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;Social Media Marketing:&lt;/strong&gt; 1 post per week across 2 key platforms.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;PPC &amp;amp; Social Ads Management:&lt;/strong&gt; Campaign setup and optimization on Google &amp;amp; Social Media (ad spend is additional).&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;Reporting:&lt;/strong&gt; Comprehensive monthly performance reports.&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- Tier 2 Card --&gt;
+        &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34; style=&#34;display:flex;flex-direction:column;gap:0;&#34;&gt;
+            &lt;h3 style=&#34;color:var(--accent3);font-size:1.25rem;font-weight:700;margin-bottom:0.5rem;&#34;&gt;Tier 2: Growth Accelerator&lt;/h3&gt;
+            &lt;p style=&#34;color:var(--muted);margin-bottom:1rem;&#34;&gt;
+                Designed for aggressive market penetration, faster lead acquisition, and building a more dominant brand presence.
+            &lt;/p&gt;
+            &lt;div style=&#34;font-weight:700;color:var(--accent1);margin-bottom:1rem;&#34;&gt;
+                INR 1,50,000 &lt;span style=&#34;font-size:1rem;font-weight:400;color:var(--muted);&#34;&gt;+ GST (Monthly Retainer, min 6-months.)&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;p style=&#34;color:var(--muted);margin-bottom:1rem;&#34;&gt;Includes Everything in Tier 1, Plus:&lt;/p&gt;
+            &lt;div&gt;&lt;strong&gt;Enhanced Team Support:&lt;/strong&gt; Increased hours from a Senior Strategist with bi-weekly check-ins.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;Advanced SEO:&lt;/strong&gt; Proactive backlink building outreach campaigns to boost domain authority.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;Increased Content Volume:&lt;/strong&gt; 4-5 high-quality blog posts per month.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;Aggressive Social Media:&lt;/strong&gt; 12 posts per month total, plus proactive community engagement.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;Conversion Rate Optimization (CRO):&lt;/strong&gt; A/B testing for landing pages and ad creatives; heatmap and user behavior analysis.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;&lt;strong&gt;In-Depth Analytics:&lt;/strong&gt; A custom performance dashboard (e.g., Google Looker Studio) for real-time KPI tracking.&lt;/div&gt;
+        &lt;/div&gt;    &lt;/div&gt;
+        &lt;!-- Tier 3 Card: Premium Gold Outline Style --&gt;
+        &lt;div style=&#34;margin-top:2.5rem;display:flex;justify-content:center;&#34;&gt;
+          &lt;div class=&#34;ai-impact-card ai-impact-card-gold&#34; style=&#34;max-width:600px;width:100%;display:flex;flex-direction:column;gap:0;&#34;&gt;
+            &lt;h3 style=&#34;color:#FFD700;font-size:1.35rem;font-weight:900;margin-bottom:0.5rem;text-shadow:0 2px 8px #bfa100;&#34;&gt;
+              Tier 3: &lt;span style=&#34;letter-spacing:1px;&#34;&gt;Market Leader&lt;/span&gt;
+            &lt;/h3&gt;
+            &lt;p style=&#34;color:#fff;margin-bottom:1rem;font-weight:500;&#34;&gt;
+              If you&#39;re aiming to dominate the Hyderabad market through multi-channel saturation and advanced brand building, this one is for you.
+            &lt;/p&gt;
+            &lt;div style=&#34;font-weight:900;color:#FFD700;margin-bottom:1rem;font-size:1.15rem;&#34;&gt;
+              INR 2,90,000 &lt;span style=&#34;font-size:1rem;font-weight:400;color:#fff;&#34;&gt;+ GST (Monthly Retainer, min 6-months)&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;p style=&#34;color:#fff;margin-bottom:1rem;font-weight:500;&#34;&gt;Includes Everything in Tier 2, Plus:&lt;/p&gt;
+            &lt;div style=&#34;color:#fff;&#34;&gt;&lt;strong&gt;Video Content Production:&lt;/strong&gt; Creation of 2 long-form and 2-4 short-form videos (Reels/Shorts) per month for social media engagement and ads.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider-gold&#34;&gt;&lt;/div&gt;
+            &lt;div style=&#34;color:#fff;&#34;&gt;&lt;strong&gt;Programmatic Advertising Management:&lt;/strong&gt; Management of hyper-local programmatic display &amp;amp; video campaigns to maximize reach (ad spend is additional).&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider-gold&#34;&gt;&lt;/div&gt;
+            &lt;div style=&#34;color:#fff;&#34;&gt;&lt;strong&gt;Advanced Reputation Management:&lt;/strong&gt; Proactive sentiment analysis and strategic response planning across digital platforms.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider-gold&#34;&gt;&lt;/div&gt;
+            &lt;div style=&#34;color:#fff;&#34;&gt;&lt;strong&gt;Digital PR Support:&lt;/strong&gt; Strategic outreach to local digital media outlets and blogs for features and mentions.&lt;/div&gt;
+            &lt;div class=&#34;ai-impact-divider-gold&#34;&gt;&lt;/div&gt;
+            &lt;div style=&#34;color:#fff;&#34;&gt;&lt;strong&gt;Intensive Strategic Support:&lt;/strong&gt; Weekly tactical check-ins and a greater allocation of senior strategist time for continuous optimization.&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;!-- Why Us --&gt;
+      &lt;h2 class=&#34;ai-impact-section-title&#34; style=&#34;color:var(--accent3);&#34;&gt;Why work with Get Strategiq?&lt;/h2&gt;
+      &lt;section id=&#34;whyus&#34; class=&#34;ai-impact-section&#34; style=&#34;margin-top:0;&#34;&gt;
+        &lt;div class=&#34;ai-impact-grid ai-impact-grid-2&#34;&gt;
+          &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;1&#34; style=&#34;text-align:center;&#34;&gt;
+            &lt;h3 style=&#34;font-weight:700;margin:1rem 0 0.5rem 0;color:var(--accent1);&#34;&gt;Strategic Expertise&lt;/h3&gt;
+            &lt;p style=&#34;color:var(--muted);&#34;&gt;Deep understanding of GTM strategies and market dynamics.&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;2&#34; style=&#34;text-align:center;&#34;&gt;
+            &lt;h3 style=&#34;font-weight:700;margin:1rem 0 0.5rem 0;color:var(--accent2);&#34;&gt;Growth Focused&lt;/h3&gt;
+            &lt;p style=&#34;color:var(--muted);&#34;&gt;Dedicated to aggressive, measurable growth and lead generation.&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;3&#34; style=&#34;text-align:center;&#34;&gt;
+            &lt;h3 style=&#34;font-weight:700;margin:1rem 0 0.5rem 0;color:var(--accent3);&#34;&gt;Scalable Partnership&lt;/h3&gt;
+            &lt;p style=&#34;color:var(--muted);&#34;&gt;Modular engagement model that grows with your pan-India ambitions.&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;ai-impact-card&#34; data-accent=&#34;4&#34; style=&#34;text-align:center;&#34;&gt;
+            &lt;h3 style=&#34;font-weight:700;margin:1rem 0 0.5rem 0;color:var(--accent4);&#34;&gt;Clear Deliverables&lt;/h3&gt;
+            &lt;p style=&#34;color:var(--muted);&#34;&gt;Transparent pricing and clearly defined activities at each phase.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/section&gt;
+      &lt;div style=&#34;text-align:center;margin:3rem 0 0 0;&#34;&gt;
+        &lt;h3 style=&#34;font-size:2rem;font-weight:700;color:var(--accent1);margin-bottom:1rem;&#34;&gt;Let&#39;s Build DailyMed&#39;s Future Together.&lt;/h3&gt;
+        &lt;p style=&#34;color:var(--muted);margin-bottom:1.5rem;&#34;&gt;Let&#39;s discuss how we can tailor this partnership for DailyMed&#39;s success.&lt;/p&gt;
+        &lt;div style=&#34;display:flex;justify-content:center;margin:2rem 0;&#34;&gt;
+          &lt;a href=&#34;https://getstrategiq.com/contact&#34; class=&#34;gsq-btn-primary&#34;&gt;
+            Get in Touch
+          &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;p style=&#34;font-size:0.85rem;color:var(--muted);margin-top:2rem;&#34;&gt;&amp;copy; getstrategiq.com. All rights reserved. Proposal for DailyMed.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+  &lt;/main&gt;
+&lt;/div&gt;
 
       </description>
     </item>
